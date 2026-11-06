@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "word": "abundant",
+    "meaning_tr": "bol",
+    "synonym_en": "plentiful",
+    "level": "Temel",
+    "example_en": "The researchers described the results as abundant in their final report."
+  },
+  {
+    "id": 2,
+    "word": "accurate",
+    "meaning_tr": "doğru, kesin",
+    "synonym_en": "precise",
+    "level": "Temel",
+    "example_en": "The historian used the term accurate to characterize the situation."
+  },
+  {
+    "id": 3,
+    "word": "adapt",
+    "meaning_tr": "uyum sağlamak",
+    "synonym_en": "adjust",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is adapt."
+  },
+  {
+    "id": 4,
+    "word": "adequate",
+    "meaning_tr": "yeterli",
+    "synonym_en": "sufficient",
+    "level": "Temel",
+    "example_en": "The author chose the word adequate to emphasize an important distinction."
+  },
+  {
+    "id": 5,
+    "word": "advocate",
+    "meaning_tr": "savunmak",
+    "synonym_en": "support",
+    "level": "Temel",
+    "example_en": "The editor highlighted advocate as a key term in the discussion."
+  },
+  {
+    "id": 6,
+    "word": "allocate",
+    "meaning_tr": "tahsis etmek",
+    "synonym_en": "assign",
+    "level": "Temel",
+    "example_en": "The researchers described the results as allocate in their final report."
+  },
+  {
+    "id": 7,
+    "word": "alter",
+    "meaning_tr": "değiştirmek",
+    "synonym_en": "modify",
+    "level": "Temel",
+    "example_en": "The historian used the term alter to characterize the situation."
+  },
+  {
+    "id": 8,
+    "word": "ambiguous",
+    "meaning_tr": "belirsiz",
+    "synonym_en": "unclear",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is ambiguous."
+  },
+  {
+    "id": 9,
+    "word": "analyze",
+    "meaning_tr": "analiz etmek",
+    "synonym_en": "examine",
+    "level": "Temel",
+    "example_en": "The author chose the word analyze to emphasize an important distinction."
+  },
+  {
+    "id": 10,
+    "word": "anticipate",
+    "meaning_tr": "öngörmek",
+    "synonym_en": "expect",
+    "level": "Temel",
+    "example_en": "The editor highlighted anticipate as a key term in the discussion."
+  },
+  {
+    "id": 11,
+    "word": "apparent",
+    "meaning_tr": "açık, belli",
+    "synonym_en": "evident",
+    "level": "Temel",
+    "example_en": "The researchers described the results as apparent in their final report."
+  },
+  {
+    "id": 12,
+    "word": "approach",
+    "meaning_tr": "yaklaşım",
+    "synonym_en": "method",
+    "level": "Temel",
+    "example_en": "The historian used the term approach to characterize the situation."
+  },
+  {
+    "id": 13,
+    "word": "approximate",
+    "meaning_tr": "yaklaşık",
+    "synonym_en": "estimated",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is approximate."
+  },
+  {
+    "id": 14,
+    "word": "assess",
+    "meaning_tr": "değerlendirmek",
+    "synonym_en": "evaluate",
+    "level": "Temel",
+    "example_en": "The author chose the word assess to emphasize an important distinction."
+  },
+  {
+    "id": 15,
+    "word": "assume",
+    "meaning_tr": "varsaymak",
+    "synonym_en": "suppose",
+    "level": "Temel",
+    "example_en": "The editor highlighted assume as a key term in the discussion."
+  },
+  {
+    "id": 16,
+    "word": "attain",
+    "meaning_tr": "ulaşmak",
+    "synonym_en": "achieve",
+    "level": "Temel",
+    "example_en": "The researchers described the results as attain in their final report."
+  },
+  {
+    "id": 17,
+    "word": "attribute",
+    "meaning_tr": "atfetmek",
+    "synonym_en": "ascribe",
+    "level": "Temel",
+    "example_en": "The historian used the term attribute to characterize the situation."
+  },
+  {
+    "id": 18,
+    "word": "beneficial",
+    "meaning_tr": "yararlı",
+    "synonym_en": "helpful",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is beneficial."
+  },
+  {
+    "id": 19,
+    "word": "bias",
+    "meaning_tr": "önyargı",
+    "synonym_en": "prejudice",
+    "level": "Temel",
+    "example_en": "The author chose the word bias to emphasize an important distinction."
+  },
+  {
+    "id": 20,
+    "word": "brief",
+    "meaning_tr": "kısa",
+    "synonym_en": "concise",
+    "level": "Temel",
+    "example_en": "The editor highlighted brief as a key term in the discussion."
+  },
+  {
+    "id": 21,
+    "word": "capacity",
+    "meaning_tr": "kapasite",
+    "synonym_en": "ability",
+    "level": "Temel",
+    "example_en": "The researchers described the results as capacity in their final report."
+  },
+  {
+    "id": 22,
+    "word": "cease",
+    "meaning_tr": "sona ermek",
+    "synonym_en": "stop",
+    "level": "Temel",
+    "example_en": "The historian used the term cease to characterize the situation."
+  },
+  {
+    "id": 23,
+    "word": "clarify",
+    "meaning_tr": "açıklığa kavuşturmak",
+    "synonym_en": "explain",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is clarify."
+  },
+  {
+    "id": 24,
+    "word": "coherent",
+    "meaning_tr": "tutarlı",
+    "synonym_en": "logical",
+    "level": "Temel",
+    "example_en": "The author chose the word coherent to emphasize an important distinction."
+  },
+  {
+    "id": 25,
+    "word": "coincide",
+    "meaning_tr": "aynı zamana denk gelmek",
+    "synonym_en": "concur",
+    "level": "Temel",
+    "example_en": "The editor highlighted coincide as a key term in the discussion."
+  },
+  {
+    "id": 26,
+    "word": "compelling",
+    "meaning_tr": "ikna edici",
+    "synonym_en": "convincing",
+    "level": "Temel",
+    "example_en": "The researchers described the results as compelling in their final report."
+  },
+  {
+    "id": 27,
+    "word": "comprehensive",
+    "meaning_tr": "kapsamlı",
+    "synonym_en": "thorough",
+    "level": "Temel",
+    "example_en": "The historian used the term comprehensive to characterize the situation."
+  },
+  {
+    "id": 28,
+    "word": "concede",
+    "meaning_tr": "kabul etmek",
+    "synonym_en": "admit",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is concede."
+  },
+  {
+    "id": 29,
+    "word": "conclude",
+    "meaning_tr": "sonuçlandırmak",
+    "synonym_en": "finish",
+    "level": "Temel",
+    "example_en": "The author chose the word conclude to emphasize an important distinction."
+  },
+  {
+    "id": 30,
+    "word": "concrete",
+    "meaning_tr": "somut",
+    "synonym_en": "tangible",
+    "level": "Temel",
+    "example_en": "The editor highlighted concrete as a key term in the discussion."
+  },
+  {
+    "id": 31,
+    "word": "confirm",
+    "meaning_tr": "doğrulamak",
+    "synonym_en": "verify",
+    "level": "Temel",
+    "example_en": "The researchers described the results as confirm in their final report."
+  },
+  {
+    "id": 32,
+    "word": "consequence",
+    "meaning_tr": "sonuç",
+    "synonym_en": "outcome",
+    "level": "Temel",
+    "example_en": "The historian used the term consequence to characterize the situation."
+  },
+  {
+    "id": 33,
+    "word": "consistent",
+    "meaning_tr": "tutarlı",
+    "synonym_en": "steady",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is consistent."
+  },
+  {
+    "id": 34,
+    "word": "constitute",
+    "meaning_tr": "oluşturmak",
+    "synonym_en": "form",
+    "level": "Temel",
+    "example_en": "The author chose the word constitute to emphasize an important distinction."
+  },
+  {
+    "id": 35,
+    "word": "constrain",
+    "meaning_tr": "sınırlamak",
+    "synonym_en": "restrict",
+    "level": "Temel",
+    "example_en": "The editor highlighted constrain as a key term in the discussion."
+  },
+  {
+    "id": 36,
+    "word": "contemporary",
+    "meaning_tr": "çağdaş",
+    "synonym_en": "modern",
+    "level": "Temel",
+    "example_en": "The researchers described the results as contemporary in their final report."
+  },
+  {
+    "id": 37,
+    "word": "contradict",
+    "meaning_tr": "çelişmek",
+    "synonym_en": "oppose",
+    "level": "Temel",
+    "example_en": "The historian used the term contradict to characterize the situation."
+  },
+  {
+    "id": 38,
+    "word": "contribute",
+    "meaning_tr": "katkıda bulunmak",
+    "synonym_en": "add",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is contribute."
+  },
+  {
+    "id": 39,
+    "word": "conventional",
+    "meaning_tr": "geleneksel",
+    "synonym_en": "traditional",
+    "level": "Temel",
+    "example_en": "The author chose the word conventional to emphasize an important distinction."
+  },
+  {
+    "id": 40,
+    "word": "convey",
+    "meaning_tr": "iletmek",
+    "synonym_en": "communicate",
+    "level": "Temel",
+    "example_en": "The editor highlighted convey as a key term in the discussion."
+  },
+  {
+    "id": 41,
+    "word": "crucial",
+    "meaning_tr": "çok önemli",
+    "synonym_en": "vital",
+    "level": "Temel",
+    "example_en": "The researchers described the results as crucial in their final report."
+  },
+  {
+    "id": 42,
+    "word": "debate",
+    "meaning_tr": "tartışmak",
+    "synonym_en": "discuss",
+    "level": "Temel",
+    "example_en": "The historian used the term debate to characterize the situation."
+  },
+  {
+    "id": 43,
+    "word": "deduce",
+    "meaning_tr": "çıkarım yapmak",
+    "synonym_en": "infer",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is deduce."
+  },
+  {
+    "id": 44,
+    "word": "define",
+    "meaning_tr": "tanımlamak",
+    "synonym_en": "describe",
+    "level": "Temel",
+    "example_en": "The author chose the word define to emphasize an important distinction."
+  },
+  {
+    "id": 45,
+    "word": "demonstrate",
+    "meaning_tr": "göstermek",
+    "synonym_en": "show",
+    "level": "Temel",
+    "example_en": "The editor highlighted demonstrate as a key term in the discussion."
+  },
+  {
+    "id": 46,
+    "word": "derive",
+    "meaning_tr": "türetmek",
+    "synonym_en": "obtain",
+    "level": "Temel",
+    "example_en": "The researchers described the results as derive in their final report."
+  },
+  {
+    "id": 47,
+    "word": "detect",
+    "meaning_tr": "tespit etmek",
+    "synonym_en": "discover",
+    "level": "Temel",
+    "example_en": "The historian used the term detect to characterize the situation."
+  },
+  {
+    "id": 48,
+    "word": "deviate",
+    "meaning_tr": "sapmak",
+    "synonym_en": "diverge",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is deviate."
+  },
+  {
+    "id": 49,
+    "word": "diminish",
+    "meaning_tr": "azaltmak",
+    "synonym_en": "reduce",
+    "level": "Temel",
+    "example_en": "The author chose the word diminish to emphasize an important distinction."
+  },
+  {
+    "id": 50,
+    "word": "distinct",
+    "meaning_tr": "farklı, ayrı",
+    "synonym_en": "separate",
+    "level": "Temel",
+    "example_en": "The editor highlighted distinct as a key term in the discussion."
+  },
+  {
+    "id": 51,
+    "word": "diverse",
+    "meaning_tr": "çeşitli",
+    "synonym_en": "varied",
+    "level": "Temel",
+    "example_en": "The researchers described the results as diverse in their final report."
+  },
+  {
+    "id": 52,
+    "word": "dominant",
+    "meaning_tr": "baskın",
+    "synonym_en": "prevailing",
+    "level": "Temel",
+    "example_en": "The historian used the term dominant to characterize the situation."
+  },
+  {
+    "id": 53,
+    "word": "durable",
+    "meaning_tr": "dayanıklı",
+    "synonym_en": "lasting",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is durable."
+  },
+  {
+    "id": 54,
+    "word": "elaborate",
+    "meaning_tr": "ayrıntılı",
+    "synonym_en": "detailed",
+    "level": "Temel",
+    "example_en": "The author chose the word elaborate to emphasize an important distinction."
+  },
+  {
+    "id": 55,
+    "word": "emerge",
+    "meaning_tr": "ortaya çıkmak",
+    "synonym_en": "appear",
+    "level": "Temel",
+    "example_en": "The editor highlighted emerge as a key term in the discussion."
+  },
+  {
+    "id": 56,
+    "word": "emphasize",
+    "meaning_tr": "vurgulamak",
+    "synonym_en": "stress",
+    "level": "Temel",
+    "example_en": "The researchers described the results as emphasize in their final report."
+  },
+  {
+    "id": 57,
+    "word": "empirical",
+    "meaning_tr": "deneysel, gözlemsel",
+    "synonym_en": "observational",
+    "level": "Temel",
+    "example_en": "The historian used the term empirical to characterize the situation."
+  },
+  {
+    "id": 58,
+    "word": "enable",
+    "meaning_tr": "olanak sağlamak",
+    "synonym_en": "allow",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is enable."
+  },
+  {
+    "id": 59,
+    "word": "encounter",
+    "meaning_tr": "karşılaşmak",
+    "synonym_en": "meet",
+    "level": "Temel",
+    "example_en": "The author chose the word encounter to emphasize an important distinction."
+  },
+  {
+    "id": 60,
+    "word": "enhance",
+    "meaning_tr": "geliştirmek",
+    "synonym_en": "improve",
+    "level": "Temel",
+    "example_en": "The editor highlighted enhance as a key term in the discussion."
+  },
+  {
+    "id": 61,
+    "word": "ensure",
+    "meaning_tr": "sağlamak, garanti etmek",
+    "synonym_en": "guarantee",
+    "level": "Temel",
+    "example_en": "The researchers described the results as ensure in their final report."
+  },
+  {
+    "id": 62,
+    "word": "establish",
+    "meaning_tr": "kurmak, ortaya koymak",
+    "synonym_en": "set up",
+    "level": "Temel",
+    "example_en": "The historian used the term establish to characterize the situation."
+  },
+  {
+    "id": 63,
+    "word": "evaluate",
+    "meaning_tr": "değerlendirmek",
+    "synonym_en": "assess",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is evaluate."
+  },
+  {
+    "id": 64,
+    "word": "evident",
+    "meaning_tr": "açıkça görülen",
+    "synonym_en": "obvious",
+    "level": "Temel",
+    "example_en": "The author chose the word evident to emphasize an important distinction."
+  },
+  {
+    "id": 65,
+    "word": "exceed",
+    "meaning_tr": "aşmak",
+    "synonym_en": "surpass",
+    "level": "Temel",
+    "example_en": "The editor highlighted exceed as a key term in the discussion."
+  },
+  {
+    "id": 66,
+    "word": "exclude",
+    "meaning_tr": "hariç tutmak",
+    "synonym_en": "omit",
+    "level": "Temel",
+    "example_en": "The researchers described the results as exclude in their final report."
+  },
+  {
+    "id": 67,
+    "word": "expand",
+    "meaning_tr": "genişletmek",
+    "synonym_en": "extend",
+    "level": "Temel",
+    "example_en": "The historian used the term expand to characterize the situation."
+  },
+  {
+    "id": 68,
+    "word": "explicit",
+    "meaning_tr": "açıkça belirtilmiş",
+    "synonym_en": "clear",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is explicit."
+  },
+  {
+    "id": 69,
+    "word": "facilitate",
+    "meaning_tr": "kolaylaştırmak",
+    "synonym_en": "ease",
+    "level": "Temel",
+    "example_en": "The author chose the word facilitate to emphasize an important distinction."
+  },
+  {
+    "id": 70,
+    "word": "feasible",
+    "meaning_tr": "uygulanabilir",
+    "synonym_en": "practical",
+    "level": "Temel",
+    "example_en": "The editor highlighted feasible as a key term in the discussion."
+  },
+  {
+    "id": 71,
+    "word": "fluctuate",
+    "meaning_tr": "dalgalanmak",
+    "synonym_en": "vary",
+    "level": "Temel",
+    "example_en": "The researchers described the results as fluctuate in their final report."
+  },
+  {
+    "id": 72,
+    "word": "fundamental",
+    "meaning_tr": "temel",
+    "synonym_en": "essential",
+    "level": "Temel",
+    "example_en": "The historian used the term fundamental to characterize the situation."
+  },
+  {
+    "id": 73,
+    "word": "generate",
+    "meaning_tr": "üretmek",
+    "synonym_en": "produce",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is generate."
+  },
+  {
+    "id": 74,
+    "word": "hypothesis",
+    "meaning_tr": "hipotez",
+    "synonym_en": "proposition",
+    "level": "Temel",
+    "example_en": "The author chose the word hypothesis to emphasize an important distinction."
+  },
+  {
+    "id": 75,
+    "word": "identify",
+    "meaning_tr": "belirlemek",
+    "synonym_en": "recognize",
+    "level": "Temel",
+    "example_en": "The editor highlighted identify as a key term in the discussion."
+  },
+  {
+    "id": 76,
+    "word": "illustrate",
+    "meaning_tr": "örneklendirmek",
+    "synonym_en": "demonstrate",
+    "level": "Temel",
+    "example_en": "The researchers described the results as illustrate in their final report."
+  },
+  {
+    "id": 77,
+    "word": "imply",
+    "meaning_tr": "ima etmek",
+    "synonym_en": "suggest",
+    "level": "Temel",
+    "example_en": "The historian used the term imply to characterize the situation."
+  },
+  {
+    "id": 78,
+    "word": "incentive",
+    "meaning_tr": "teşvik",
+    "synonym_en": "motivation",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is incentive."
+  },
+  {
+    "id": 79,
+    "word": "incorporate",
+    "meaning_tr": "dahil etmek",
+    "synonym_en": "include",
+    "level": "Temel",
+    "example_en": "The author chose the word incorporate to emphasize an important distinction."
+  },
+  {
+    "id": 80,
+    "word": "indicate",
+    "meaning_tr": "göstermek",
+    "synonym_en": "signal",
+    "level": "Temel",
+    "example_en": "The editor highlighted indicate as a key term in the discussion."
+  },
+  {
+    "id": 81,
+    "word": "inevitable",
+    "meaning_tr": "kaçınılmaz",
+    "synonym_en": "unavoidable",
+    "level": "Temel",
+    "example_en": "The researchers described the results as inevitable in their final report."
+  },
+  {
+    "id": 82,
+    "word": "infer",
+    "meaning_tr": "çıkarım yapmak",
+    "synonym_en": "deduce",
+    "level": "Temel",
+    "example_en": "The historian used the term infer to characterize the situation."
+  },
+  {
+    "id": 83,
+    "word": "influence",
+    "meaning_tr": "etkilemek",
+    "synonym_en": "affect",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is influence."
+  },
+  {
+    "id": 84,
+    "word": "initial",
+    "meaning_tr": "ilk, başlangıçtaki",
+    "synonym_en": "first",
+    "level": "Temel",
+    "example_en": "The author chose the word initial to emphasize an important distinction."
+  },
+  {
+    "id": 85,
+    "word": "innovative",
+    "meaning_tr": "yenilikçi",
+    "synonym_en": "original",
+    "level": "Temel",
+    "example_en": "The editor highlighted innovative as a key term in the discussion."
+  },
+  {
+    "id": 86,
+    "word": "insight",
+    "meaning_tr": "kavrayış",
+    "synonym_en": "understanding",
+    "level": "Temel",
+    "example_en": "The researchers described the results as insight in their final report."
+  },
+  {
+    "id": 87,
+    "word": "integrate",
+    "meaning_tr": "bütünleştirmek",
+    "synonym_en": "combine",
+    "level": "Temel",
+    "example_en": "The historian used the term integrate to characterize the situation."
+  },
+  {
+    "id": 88,
+    "word": "interpret",
+    "meaning_tr": "yorumlamak",
+    "synonym_en": "explain",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is interpret."
+  },
+  {
+    "id": 89,
+    "word": "justify",
+    "meaning_tr": "gerekçelendirmek",
+    "synonym_en": "defend",
+    "level": "Temel",
+    "example_en": "The author chose the word justify to emphasize an important distinction."
+  },
+  {
+    "id": 90,
+    "word": "maintain",
+    "meaning_tr": "sürdürmek",
+    "synonym_en": "preserve",
+    "level": "Temel",
+    "example_en": "The editor highlighted maintain as a key term in the discussion."
+  },
+  {
+    "id": 91,
+    "word": "manifest",
+    "meaning_tr": "açıkça göstermek",
+    "synonym_en": "display",
+    "level": "Temel",
+    "example_en": "The researchers described the results as manifest in their final report."
+  },
+  {
+    "id": 92,
+    "word": "modify",
+    "meaning_tr": "değiştirmek",
+    "synonym_en": "alter",
+    "level": "Temel",
+    "example_en": "The historian used the term modify to characterize the situation."
+  },
+  {
+    "id": 93,
+    "word": "notable",
+    "meaning_tr": "dikkate değer",
+    "synonym_en": "remarkable",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is notable."
+  },
+  {
+    "id": 94,
+    "word": "objective",
+    "meaning_tr": "tarafsız",
+    "synonym_en": "impartial",
+    "level": "Temel",
+    "example_en": "The author chose the word objective to emphasize an important distinction."
+  },
+  {
+    "id": 95,
+    "word": "obtain",
+    "meaning_tr": "elde etmek",
+    "synonym_en": "acquire",
+    "level": "Temel",
+    "example_en": "The editor highlighted obtain as a key term in the discussion."
+  },
+  {
+    "id": 96,
+    "word": "occur",
+    "meaning_tr": "meydana gelmek",
+    "synonym_en": "happen",
+    "level": "Temel",
+    "example_en": "The researchers described the results as occur in their final report."
+  },
+  {
+    "id": 97,
+    "word": "persist",
+    "meaning_tr": "devam etmek",
+    "synonym_en": "endure",
+    "level": "Temel",
+    "example_en": "The historian used the term persist to characterize the situation."
+  },
+  {
+    "id": 98,
+    "word": "potential",
+    "meaning_tr": "olası, potansiyel",
+    "synonym_en": "possible",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is potential."
+  },
+  {
+    "id": 99,
+    "word": "precise",
+    "meaning_tr": "kesin, tam",
+    "synonym_en": "exact",
+    "level": "Temel",
+    "example_en": "The author chose the word precise to emphasize an important distinction."
+  },
+  {
+    "id": 100,
+    "word": "predict",
+    "meaning_tr": "tahmin etmek",
+    "synonym_en": "forecast",
+    "level": "Temel",
+    "example_en": "The editor highlighted predict as a key term in the discussion."
+  },
+  {
+    "id": 101,
+    "word": "preliminary",
+    "meaning_tr": "ön hazırlık niteliğinde",
+    "synonym_en": "initial",
+    "level": "Temel",
+    "example_en": "The researchers described the results as preliminary in their final report."
+  },
+  {
+    "id": 102,
+    "word": "preserve",
+    "meaning_tr": "korumak",
+    "synonym_en": "protect",
+    "level": "Temel",
+    "example_en": "The historian used the term preserve to characterize the situation."
+  },
+  {
+    "id": 103,
+    "word": "prevail",
+    "meaning_tr": "üstün gelmek",
+    "synonym_en": "triumph",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is prevail."
+  },
+  {
+    "id": 104,
+    "word": "primary",
+    "meaning_tr": "başlıca",
+    "synonym_en": "main",
+    "level": "Temel",
+    "example_en": "The author chose the word primary to emphasize an important distinction."
+  },
+  {
+    "id": 105,
+    "word": "prior",
+    "meaning_tr": "önceki",
+    "synonym_en": "previous",
+    "level": "Temel",
+    "example_en": "The editor highlighted prior as a key term in the discussion."
+  },
+  {
+    "id": 106,
+    "word": "profound",
+    "meaning_tr": "derin, köklü",
+    "synonym_en": "deep",
+    "level": "Temel",
+    "example_en": "The researchers described the results as profound in their final report."
+  },
+  {
+    "id": 107,
+    "word": "prominent",
+    "meaning_tr": "öne çıkan",
+    "synonym_en": "notable",
+    "level": "Temel",
+    "example_en": "The historian used the term prominent to characterize the situation."
+  },
+  {
+    "id": 108,
+    "word": "propose",
+    "meaning_tr": "önermek",
+    "synonym_en": "suggest",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is propose."
+  },
+  {
+    "id": 109,
+    "word": "pursue",
+    "meaning_tr": "peşinden gitmek",
+    "synonym_en": "seek",
+    "level": "Temel",
+    "example_en": "The author chose the word pursue to emphasize an important distinction."
+  },
+  {
+    "id": 110,
+    "word": "rational",
+    "meaning_tr": "akılcı",
+    "synonym_en": "reasonable",
+    "level": "Temel",
+    "example_en": "The editor highlighted rational as a key term in the discussion."
+  },
+  {
+    "id": 111,
+    "word": "reconcile",
+    "meaning_tr": "uzlaştırmak",
+    "synonym_en": "resolve",
+    "level": "Temel",
+    "example_en": "The researchers described the results as reconcile in their final report."
+  },
+  {
+    "id": 112,
+    "word": "refine",
+    "meaning_tr": "iyileştirmek",
+    "synonym_en": "improve",
+    "level": "Temel",
+    "example_en": "The historian used the term refine to characterize the situation."
+  },
+  {
+    "id": 113,
+    "word": "reinforce",
+    "meaning_tr": "güçlendirmek",
+    "synonym_en": "strengthen",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is reinforce."
+  },
+  {
+    "id": 114,
+    "word": "relevant",
+    "meaning_tr": "ilgili",
+    "synonym_en": "pertinent",
+    "level": "Temel",
+    "example_en": "The author chose the word relevant to emphasize an important distinction."
+  },
+  {
+    "id": 115,
+    "word": "reliable",
+    "meaning_tr": "güvenilir",
+    "synonym_en": "dependable",
+    "level": "Temel",
+    "example_en": "The editor highlighted reliable as a key term in the discussion."
+  },
+  {
+    "id": 116,
+    "word": "require",
+    "meaning_tr": "gerektirmek",
+    "synonym_en": "necessitate",
+    "level": "Temel",
+    "example_en": "The researchers described the results as require in their final report."
+  },
+  {
+    "id": 117,
+    "word": "resolve",
+    "meaning_tr": "çözmek",
+    "synonym_en": "settle",
+    "level": "Temel",
+    "example_en": "The historian used the term resolve to characterize the situation."
+  },
+  {
+    "id": 118,
+    "word": "retain",
+    "meaning_tr": "elde tutmak",
+    "synonym_en": "keep",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is retain."
+  },
+  {
+    "id": 119,
+    "word": "reveal",
+    "meaning_tr": "ortaya çıkarmak",
+    "synonym_en": "disclose",
+    "level": "Temel",
+    "example_en": "The author chose the word reveal to emphasize an important distinction."
+  },
+  {
+    "id": 120,
+    "word": "rigorous",
+    "meaning_tr": "titiz",
+    "synonym_en": "strict",
+    "level": "Temel",
+    "example_en": "The editor highlighted rigorous as a key term in the discussion."
+  },
+  {
+    "id": 121,
+    "word": "significant",
+    "meaning_tr": "önemli",
+    "synonym_en": "substantial",
+    "level": "Temel",
+    "example_en": "The researchers described the results as significant in their final report."
+  },
+  {
+    "id": 122,
+    "word": "simultaneous",
+    "meaning_tr": "eş zamanlı",
+    "synonym_en": "concurrent",
+    "level": "Temel",
+    "example_en": "The historian used the term simultaneous to characterize the situation."
+  },
+  {
+    "id": 123,
+    "word": "specify",
+    "meaning_tr": "belirtmek",
+    "synonym_en": "state",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is specify."
+  },
+  {
+    "id": 124,
+    "word": "stable",
+    "meaning_tr": "istikrarlı",
+    "synonym_en": "steady",
+    "level": "Temel",
+    "example_en": "The author chose the word stable to emphasize an important distinction."
+  },
+  {
+    "id": 125,
+    "word": "subsequent",
+    "meaning_tr": "sonraki",
+    "synonym_en": "following",
+    "level": "Temel",
+    "example_en": "The editor highlighted subsequent as a key term in the discussion."
+  },
+  {
+    "id": 126,
+    "word": "substantial",
+    "meaning_tr": "kayda değer",
+    "synonym_en": "considerable",
+    "level": "Temel",
+    "example_en": "The researchers described the results as substantial in their final report."
+  },
+  {
+    "id": 127,
+    "word": "sufficient",
+    "meaning_tr": "yeterli",
+    "synonym_en": "adequate",
+    "level": "Temel",
+    "example_en": "The historian used the term sufficient to characterize the situation."
+  },
+  {
+    "id": 128,
+    "word": "sustain",
+    "meaning_tr": "sürdürmek",
+    "synonym_en": "maintain",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is sustain."
+  },
+  {
+    "id": 129,
+    "word": "temporary",
+    "meaning_tr": "geçici",
+    "synonym_en": "short-lived",
+    "level": "Temel",
+    "example_en": "The author chose the word temporary to emphasize an important distinction."
+  },
+  {
+    "id": 130,
+    "word": "tendency",
+    "meaning_tr": "eğilim",
+    "synonym_en": "inclination",
+    "level": "Temel",
+    "example_en": "The editor highlighted tendency as a key term in the discussion."
+  },
+  {
+    "id": 131,
+    "word": "tentative",
+    "meaning_tr": "kesin olmayan",
+    "synonym_en": "provisional",
+    "level": "Temel",
+    "example_en": "The researchers described the results as tentative in their final report."
+  },
+  {
+    "id": 132,
+    "word": "transform",
+    "meaning_tr": "dönüştürmek",
+    "synonym_en": "change",
+    "level": "Temel",
+    "example_en": "The historian used the term transform to characterize the situation."
+  },
+  {
+    "id": 133,
+    "word": "underlying",
+    "meaning_tr": "altta yatan",
+    "synonym_en": "fundamental",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is underlying."
+  },
+  {
+    "id": 134,
+    "word": "unique",
+    "meaning_tr": "benzersiz",
+    "synonym_en": "distinct",
+    "level": "Temel",
+    "example_en": "The author chose the word unique to emphasize an important distinction."
+  },
+  {
+    "id": 135,
+    "word": "valid",
+    "meaning_tr": "geçerli",
+    "synonym_en": "sound",
+    "level": "Temel",
+    "example_en": "The editor highlighted valid as a key term in the discussion."
+  },
+  {
+    "id": 136,
+    "word": "vary",
+    "meaning_tr": "değişiklik göstermek",
+    "synonym_en": "differ",
+    "level": "Temel",
+    "example_en": "The researchers described the results as vary in their final report."
+  },
+  {
+    "id": 137,
+    "word": "viable",
+    "meaning_tr": "uygulanabilir",
+    "synonym_en": "workable",
+    "level": "Temel",
+    "example_en": "The historian used the term viable to characterize the situation."
+  },
+  {
+    "id": 138,
+    "word": "widespread",
+    "meaning_tr": "yaygın",
+    "synonym_en": "prevalent",
+    "level": "Temel",
+    "example_en": "The passage asks readers to consider whether the claim is widespread."
+  },
+  {
+    "id": 139,
+    "word": "abstract",
+    "meaning_tr": "soyut",
+    "synonym_en": "theoretical",
+    "level": "Temel",
+    "example_en": "The author chose the word abstract to emphasize an important distinction."
+  },
+  {
+    "id": 140,
+    "word": "accumulate",
+    "meaning_tr": "biriktirmek",
+    "synonym_en": "gather",
+    "level": "Temel",
+    "example_en": "The editor highlighted accumulate as a key term in the discussion."
+  },
+  {
+    "id": 141,
+    "word": "acknowledge",
+    "meaning_tr": "kabul etmek",
+    "synonym_en": "recognize",
+    "level": "Orta",
+    "example_en": "The researchers described the results as acknowledge in their final report."
+  },
+  {
+    "id": 142,
+    "word": "acquire",
+    "meaning_tr": "edinmek",
+    "synonym_en": "obtain",
+    "level": "Orta",
+    "example_en": "The historian used the term acquire to characterize the situation."
+  },
+  {
+    "id": 143,
+    "word": "adjacent",
+    "meaning_tr": "bitişik",
+    "synonym_en": "neighboring",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is adjacent."
+  },
+  {
+    "id": 144,
+    "word": "adverse",
+    "meaning_tr": "olumsuz",
+    "synonym_en": "unfavorable",
+    "level": "Orta",
+    "example_en": "The author chose the word adverse to emphasize an important distinction."
+  },
+  {
+    "id": 145,
+    "word": "advantageous",
+    "meaning_tr": "avantajlı",
+    "synonym_en": "beneficial",
+    "level": "Orta",
+    "example_en": "The editor highlighted advantageous as a key term in the discussion."
+  },
+  {
+    "id": 146,
+    "word": "aggregate",
+    "meaning_tr": "toplam, birikim",
+    "synonym_en": "total",
+    "level": "Orta",
+    "example_en": "The researchers described the results as aggregate in their final report."
+  },
+  {
+    "id": 147,
+    "word": "alleviate",
+    "meaning_tr": "hafifletmek",
+    "synonym_en": "ease",
+    "level": "Orta",
+    "example_en": "The historian used the term alleviate to characterize the situation."
+  },
+  {
+    "id": 148,
+    "word": "amend",
+    "meaning_tr": "düzeltmek",
+    "synonym_en": "revise",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is amend."
+  },
+  {
+    "id": 149,
+    "word": "analogous",
+    "meaning_tr": "benzer",
+    "synonym_en": "comparable",
+    "level": "Orta",
+    "example_en": "The author chose the word analogous to emphasize an important distinction."
+  },
+  {
+    "id": 150,
+    "word": "anomaly",
+    "meaning_tr": "aykırılık",
+    "synonym_en": "irregularity",
+    "level": "Orta",
+    "example_en": "The editor highlighted anomaly as a key term in the discussion."
+  },
+  {
+    "id": 151,
+    "word": "arbitrary",
+    "meaning_tr": "keyfî",
+    "synonym_en": "random",
+    "level": "Orta",
+    "example_en": "The researchers described the results as arbitrary in their final report."
+  },
+  {
+    "id": 152,
+    "word": "articulate",
+    "meaning_tr": "açıkça ifade etmek",
+    "synonym_en": "express",
+    "level": "Orta",
+    "example_en": "The historian used the term articulate to characterize the situation."
+  },
+  {
+    "id": 153,
+    "word": "assert",
+    "meaning_tr": "iddia etmek",
+    "synonym_en": "claim",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is assert."
+  },
+  {
+    "id": 154,
+    "word": "assimilate",
+    "meaning_tr": "özümsemek",
+    "synonym_en": "absorb",
+    "level": "Orta",
+    "example_en": "The author chose the word assimilate to emphasize an important distinction."
+  },
+  {
+    "id": 155,
+    "word": "augment",
+    "meaning_tr": "artırmak",
+    "synonym_en": "increase",
+    "level": "Orta",
+    "example_en": "The editor highlighted augment as a key term in the discussion."
+  },
+  {
+    "id": 156,
+    "word": "austere",
+    "meaning_tr": "sade, sert",
+    "synonym_en": "severe",
+    "level": "Orta",
+    "example_en": "The researchers described the results as austere in their final report."
+  },
+  {
+    "id": 157,
+    "word": "bolster",
+    "meaning_tr": "desteklemek",
+    "synonym_en": "strengthen",
+    "level": "Orta",
+    "example_en": "The historian used the term bolster to characterize the situation."
+  },
+  {
+    "id": 158,
+    "word": "candid",
+    "meaning_tr": "açık sözlü",
+    "synonym_en": "frank",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is candid."
+  },
+  {
+    "id": 159,
+    "word": "catalyst",
+    "meaning_tr": "tetikleyici",
+    "synonym_en": "stimulus",
+    "level": "Orta",
+    "example_en": "The author chose the word catalyst to emphasize an important distinction."
+  },
+  {
+    "id": 160,
+    "word": "cautious",
+    "meaning_tr": "temkinli",
+    "synonym_en": "careful",
+    "level": "Orta",
+    "example_en": "The editor highlighted cautious as a key term in the discussion."
+  },
+  {
+    "id": 161,
+    "word": "circumvent",
+    "meaning_tr": "etrafından dolaşmak",
+    "synonym_en": "bypass",
+    "level": "Orta",
+    "example_en": "The researchers described the results as circumvent in their final report."
+  },
+  {
+    "id": 162,
+    "word": "cite",
+    "meaning_tr": "atıfta bulunmak",
+    "synonym_en": "reference",
+    "level": "Orta",
+    "example_en": "The historian used the term cite to characterize the situation."
+  },
+  {
+    "id": 163,
+    "word": "collaborate",
+    "meaning_tr": "iş birliği yapmak",
+    "synonym_en": "cooperate",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is collaborate."
+  },
+  {
+    "id": 164,
+    "word": "commence",
+    "meaning_tr": "başlamak",
+    "synonym_en": "begin",
+    "level": "Orta",
+    "example_en": "The author chose the word commence to emphasize an important distinction."
+  },
+  {
+    "id": 165,
+    "word": "compatible",
+    "meaning_tr": "uyumlu",
+    "synonym_en": "consistent",
+    "level": "Orta",
+    "example_en": "The editor highlighted compatible as a key term in the discussion."
+  },
+  {
+    "id": 166,
+    "word": "compile",
+    "meaning_tr": "derlemek",
+    "synonym_en": "collect",
+    "level": "Orta",
+    "example_en": "The researchers described the results as compile in their final report."
+  },
+  {
+    "id": 167,
+    "word": "complement",
+    "meaning_tr": "tamamlamak",
+    "synonym_en": "supplement",
+    "level": "Orta",
+    "example_en": "The historian used the term complement to characterize the situation."
+  },
+  {
+    "id": 168,
+    "word": "complexity",
+    "meaning_tr": "karmaşıklık",
+    "synonym_en": "intricacy",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is complexity."
+  },
+  {
+    "id": 169,
+    "word": "comply",
+    "meaning_tr": "uymak",
+    "synonym_en": "obey",
+    "level": "Orta",
+    "example_en": "The author chose the word comply to emphasize an important distinction."
+  },
+  {
+    "id": 170,
+    "word": "conceal",
+    "meaning_tr": "gizlemek",
+    "synonym_en": "hide",
+    "level": "Orta",
+    "example_en": "The editor highlighted conceal as a key term in the discussion."
+  },
+  {
+    "id": 171,
+    "word": "concurrent",
+    "meaning_tr": "eş zamanlı",
+    "synonym_en": "simultaneous",
+    "level": "Orta",
+    "example_en": "The researchers described the results as concurrent in their final report."
+  },
+  {
+    "id": 172,
+    "word": "condense",
+    "meaning_tr": "yoğunlaştırmak",
+    "synonym_en": "compress",
+    "level": "Orta",
+    "example_en": "The historian used the term condense to characterize the situation."
+  },
+  {
+    "id": 173,
+    "word": "confine",
+    "meaning_tr": "sınırlamak",
+    "synonym_en": "restrict",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is confine."
+  },
+  {
+    "id": 174,
+    "word": "conform",
+    "meaning_tr": "uyum sağlamak",
+    "synonym_en": "comply",
+    "level": "Orta",
+    "example_en": "The author chose the word conform to emphasize an important distinction."
+  },
+  {
+    "id": 175,
+    "word": "conjecture",
+    "meaning_tr": "varsayım",
+    "synonym_en": "speculation",
+    "level": "Orta",
+    "example_en": "The editor highlighted conjecture as a key term in the discussion."
+  },
+  {
+    "id": 176,
+    "word": "consolidate",
+    "meaning_tr": "sağlamlaştırmak",
+    "synonym_en": "strengthen",
+    "level": "Orta",
+    "example_en": "The researchers described the results as consolidate in their final report."
+  },
+  {
+    "id": 177,
+    "word": "contend",
+    "meaning_tr": "ileri sürmek",
+    "synonym_en": "argue",
+    "level": "Orta",
+    "example_en": "The historian used the term contend to characterize the situation."
+  },
+  {
+    "id": 178,
+    "word": "contingent",
+    "meaning_tr": "koşula bağlı",
+    "synonym_en": "conditional",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is contingent."
+  },
+  {
+    "id": 179,
+    "word": "converge",
+    "meaning_tr": "bir noktada birleşmek",
+    "synonym_en": "meet",
+    "level": "Orta",
+    "example_en": "The author chose the word converge to emphasize an important distinction."
+  },
+  {
+    "id": 180,
+    "word": "corroborate",
+    "meaning_tr": "doğrulamak",
+    "synonym_en": "confirm",
+    "level": "Orta",
+    "example_en": "The editor highlighted corroborate as a key term in the discussion."
+  },
+  {
+    "id": 181,
+    "word": "credible",
+    "meaning_tr": "inandırıcı",
+    "synonym_en": "believable",
+    "level": "Orta",
+    "example_en": "The researchers described the results as credible in their final report."
+  },
+  {
+    "id": 182,
+    "word": "cumulative",
+    "meaning_tr": "birikimli",
+    "synonym_en": "accumulated",
+    "level": "Orta",
+    "example_en": "The historian used the term cumulative to characterize the situation."
+  },
+  {
+    "id": 183,
+    "word": "curtail",
+    "meaning_tr": "kısıtlamak",
+    "synonym_en": "reduce",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is curtail."
+  },
+  {
+    "id": 184,
+    "word": "deplete",
+    "meaning_tr": "tüketmek",
+    "synonym_en": "exhaust",
+    "level": "Orta",
+    "example_en": "The author chose the word deplete to emphasize an important distinction."
+  },
+  {
+    "id": 185,
+    "word": "depict",
+    "meaning_tr": "tasvir etmek",
+    "synonym_en": "portray",
+    "level": "Orta",
+    "example_en": "The editor highlighted depict as a key term in the discussion."
+  },
+  {
+    "id": 186,
+    "word": "detrimental",
+    "meaning_tr": "zararlı",
+    "synonym_en": "harmful",
+    "level": "Orta",
+    "example_en": "The researchers described the results as detrimental in their final report."
+  },
+  {
+    "id": 187,
+    "word": "discrepancy",
+    "meaning_tr": "tutarsızlık",
+    "synonym_en": "inconsistency",
+    "level": "Orta",
+    "example_en": "The historian used the term discrepancy to characterize the situation."
+  },
+  {
+    "id": 188,
+    "word": "discrete",
+    "meaning_tr": "ayrı, bağımsız",
+    "synonym_en": "distinct",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is discrete."
+  },
+  {
+    "id": 189,
+    "word": "disparity",
+    "meaning_tr": "eşitsizlik",
+    "synonym_en": "inequality",
+    "level": "Orta",
+    "example_en": "The author chose the word disparity to emphasize an important distinction."
+  },
+  {
+    "id": 190,
+    "word": "dispute",
+    "meaning_tr": "itiraz etmek",
+    "synonym_en": "challenge",
+    "level": "Orta",
+    "example_en": "The editor highlighted dispute as a key term in the discussion."
+  },
+  {
+    "id": 191,
+    "word": "disseminate",
+    "meaning_tr": "yaymak",
+    "synonym_en": "spread",
+    "level": "Orta",
+    "example_en": "The researchers described the results as disseminate in their final report."
+  },
+  {
+    "id": 192,
+    "word": "distort",
+    "meaning_tr": "çarpıtmak",
+    "synonym_en": "misrepresent",
+    "level": "Orta",
+    "example_en": "The historian used the term distort to characterize the situation."
+  },
+  {
+    "id": 193,
+    "word": "divergent",
+    "meaning_tr": "farklı yönlere giden",
+    "synonym_en": "differing",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is divergent."
+  },
+  {
+    "id": 194,
+    "word": "dubious",
+    "meaning_tr": "şüpheli",
+    "synonym_en": "questionable",
+    "level": "Orta",
+    "example_en": "The author chose the word dubious to emphasize an important distinction."
+  },
+  {
+    "id": 195,
+    "word": "eccentric",
+    "meaning_tr": "alışılmadık",
+    "synonym_en": "unconventional",
+    "level": "Orta",
+    "example_en": "The editor highlighted eccentric as a key term in the discussion."
+  },
+  {
+    "id": 196,
+    "word": "eclipse",
+    "meaning_tr": "gölgede bırakmak",
+    "synonym_en": "overshadow",
+    "level": "Orta",
+    "example_en": "The researchers described the results as eclipse in their final report."
+  },
+  {
+    "id": 197,
+    "word": "elicit",
+    "meaning_tr": "ortaya çıkarmak",
+    "synonym_en": "evoke",
+    "level": "Orta",
+    "example_en": "The historian used the term elicit to characterize the situation."
+  },
+  {
+    "id": 198,
+    "word": "elucidate",
+    "meaning_tr": "açıklığa kavuşturmak",
+    "synonym_en": "clarify",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is elucidate."
+  },
+  {
+    "id": 199,
+    "word": "embody",
+    "meaning_tr": "somutlaştırmak",
+    "synonym_en": "represent",
+    "level": "Orta",
+    "example_en": "The author chose the word embody to emphasize an important distinction."
+  },
+  {
+    "id": 200,
+    "word": "emulate",
+    "meaning_tr": "örnek almak",
+    "synonym_en": "imitate",
+    "level": "Orta",
+    "example_en": "The editor highlighted emulate as a key term in the discussion."
+  },
+  {
+    "id": 201,
+    "word": "endure",
+    "meaning_tr": "dayanmak",
+    "synonym_en": "persist",
+    "level": "Orta",
+    "example_en": "The researchers described the results as endure in their final report."
+  },
+  {
+    "id": 202,
+    "word": "entail",
+    "meaning_tr": "gerektirmek",
+    "synonym_en": "involve",
+    "level": "Orta",
+    "example_en": "The historian used the term entail to characterize the situation."
+  },
+  {
+    "id": 203,
+    "word": "equitable",
+    "meaning_tr": "adil",
+    "synonym_en": "fair",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is equitable."
+  },
+  {
+    "id": 204,
+    "word": "erode",
+    "meaning_tr": "aşındırmak",
+    "synonym_en": "wear away",
+    "level": "Orta",
+    "example_en": "The author chose the word erode to emphasize an important distinction."
+  },
+  {
+    "id": 205,
+    "word": "erratic",
+    "meaning_tr": "düzensiz",
+    "synonym_en": "unpredictable",
+    "level": "Orta",
+    "example_en": "The editor highlighted erratic as a key term in the discussion."
+  },
+  {
+    "id": 206,
+    "word": "exacerbate",
+    "meaning_tr": "kötüleştirmek",
+    "synonym_en": "worsen",
+    "level": "Orta",
+    "example_en": "The researchers described the results as exacerbate in their final report."
+  },
+  {
+    "id": 207,
+    "word": "exhaustive",
+    "meaning_tr": "kapsamlı",
+    "synonym_en": "thorough",
+    "level": "Orta",
+    "example_en": "The historian used the term exhaustive to characterize the situation."
+  },
+  {
+    "id": 208,
+    "word": "exemplify",
+    "meaning_tr": "örneklemek",
+    "synonym_en": "illustrate",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is exemplify."
+  },
+  {
+    "id": 209,
+    "word": "exert",
+    "meaning_tr": "uygulamak",
+    "synonym_en": "apply",
+    "level": "Orta",
+    "example_en": "The author chose the word exert to emphasize an important distinction."
+  },
+  {
+    "id": 210,
+    "word": "exhibit",
+    "meaning_tr": "sergilemek",
+    "synonym_en": "display",
+    "level": "Orta",
+    "example_en": "The editor highlighted exhibit as a key term in the discussion."
+  },
+  {
+    "id": 211,
+    "word": "expedite",
+    "meaning_tr": "hızlandırmak",
+    "synonym_en": "accelerate",
+    "level": "Orta",
+    "example_en": "The researchers described the results as expedite in their final report."
+  },
+  {
+    "id": 212,
+    "word": "extrapolate",
+    "meaning_tr": "veriden tahmin yürütmek",
+    "synonym_en": "project",
+    "level": "Orta",
+    "example_en": "The historian used the term extrapolate to characterize the situation."
+  },
+  {
+    "id": 213,
+    "word": "foster",
+    "meaning_tr": "teşvik etmek",
+    "synonym_en": "encourage",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is foster."
+  },
+  {
+    "id": 214,
+    "word": "fragile",
+    "meaning_tr": "kırılgan",
+    "synonym_en": "delicate",
+    "level": "Orta",
+    "example_en": "The author chose the word fragile to emphasize an important distinction."
+  },
+  {
+    "id": 215,
+    "word": "frugal",
+    "meaning_tr": "tutumlu",
+    "synonym_en": "thrifty",
+    "level": "Orta",
+    "example_en": "The editor highlighted frugal as a key term in the discussion."
+  },
+  {
+    "id": 216,
+    "word": "garner",
+    "meaning_tr": "toplamak, kazanmak",
+    "synonym_en": "gather",
+    "level": "Orta",
+    "example_en": "The researchers described the results as garner in their final report."
+  },
+  {
+    "id": 217,
+    "word": "gradual",
+    "meaning_tr": "kademeli",
+    "synonym_en": "progressive",
+    "level": "Orta",
+    "example_en": "The historian used the term gradual to characterize the situation."
+  },
+  {
+    "id": 218,
+    "word": "hamper",
+    "meaning_tr": "engellemek",
+    "synonym_en": "hinder",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is hamper."
+  },
+  {
+    "id": 219,
+    "word": "haphazard",
+    "meaning_tr": "gelişigüzel",
+    "synonym_en": "random",
+    "level": "Orta",
+    "example_en": "The author chose the word haphazard to emphasize an important distinction."
+  },
+  {
+    "id": 220,
+    "word": "heterogeneous",
+    "meaning_tr": "farklı türlerden oluşan",
+    "synonym_en": "diverse",
+    "level": "Orta",
+    "example_en": "The editor highlighted heterogeneous as a key term in the discussion."
+  },
+  {
+    "id": 221,
+    "word": "homogeneous",
+    "meaning_tr": "türdeş",
+    "synonym_en": "uniform",
+    "level": "Orta",
+    "example_en": "The researchers described the results as homogeneous in their final report."
+  },
+  {
+    "id": 222,
+    "word": "imminent",
+    "meaning_tr": "yakın, eli kulağında",
+    "synonym_en": "impending",
+    "level": "Orta",
+    "example_en": "The historian used the term imminent to characterize the situation."
+  },
+  {
+    "id": 223,
+    "word": "impartial",
+    "meaning_tr": "tarafsız",
+    "synonym_en": "unbiased",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is impartial."
+  },
+  {
+    "id": 224,
+    "word": "impede",
+    "meaning_tr": "engellemek",
+    "synonym_en": "hinder",
+    "level": "Orta",
+    "example_en": "The author chose the word impede to emphasize an important distinction."
+  },
+  {
+    "id": 225,
+    "word": "imperative",
+    "meaning_tr": "zorunlu, çok önemli",
+    "synonym_en": "essential",
+    "level": "Orta",
+    "example_en": "The editor highlighted imperative as a key term in the discussion."
+  },
+  {
+    "id": 226,
+    "word": "implicit",
+    "meaning_tr": "örtük, dolaylı",
+    "synonym_en": "implied",
+    "level": "Orta",
+    "example_en": "The researchers described the results as implicit in their final report."
+  },
+  {
+    "id": 227,
+    "word": "inadvertent",
+    "meaning_tr": "kasıtsız",
+    "synonym_en": "unintentional",
+    "level": "Orta",
+    "example_en": "The historian used the term inadvertent to characterize the situation."
+  },
+  {
+    "id": 228,
+    "word": "incessant",
+    "meaning_tr": "aralıksız",
+    "synonym_en": "constant",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is incessant."
+  },
+  {
+    "id": 229,
+    "word": "incongruous",
+    "meaning_tr": "uyumsuz",
+    "synonym_en": "inconsistent",
+    "level": "Orta",
+    "example_en": "The author chose the word incongruous to emphasize an important distinction."
+  },
+  {
+    "id": 230,
+    "word": "indispensable",
+    "meaning_tr": "vazgeçilmez",
+    "synonym_en": "essential",
+    "level": "Orta",
+    "example_en": "The editor highlighted indispensable as a key term in the discussion."
+  },
+  {
+    "id": 231,
+    "word": "induce",
+    "meaning_tr": "neden olmak",
+    "synonym_en": "cause",
+    "level": "Orta",
+    "example_en": "The researchers described the results as induce in their final report."
+  },
+  {
+    "id": 232,
+    "word": "inherent",
+    "meaning_tr": "doğasında var olan",
+    "synonym_en": "intrinsic",
+    "level": "Orta",
+    "example_en": "The historian used the term inherent to characterize the situation."
+  },
+  {
+    "id": 233,
+    "word": "inhibit",
+    "meaning_tr": "engellemek",
+    "synonym_en": "restrain",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is inhibit."
+  },
+  {
+    "id": 234,
+    "word": "innate",
+    "meaning_tr": "doğuştan",
+    "synonym_en": "inborn",
+    "level": "Orta",
+    "example_en": "The author chose the word innate to emphasize an important distinction."
+  },
+  {
+    "id": 235,
+    "word": "innovate",
+    "meaning_tr": "yenilik yapmak",
+    "synonym_en": "pioneer",
+    "level": "Orta",
+    "example_en": "The editor highlighted innovate as a key term in the discussion."
+  },
+  {
+    "id": 236,
+    "word": "insignificant",
+    "meaning_tr": "önemsiz",
+    "synonym_en": "trivial",
+    "level": "Orta",
+    "example_en": "The researchers described the results as insignificant in their final report."
+  },
+  {
+    "id": 237,
+    "word": "intricate",
+    "meaning_tr": "karmaşık",
+    "synonym_en": "complex",
+    "level": "Orta",
+    "example_en": "The historian used the term intricate to characterize the situation."
+  },
+  {
+    "id": 238,
+    "word": "intuitive",
+    "meaning_tr": "sezgisel",
+    "synonym_en": "instinctive",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is intuitive."
+  },
+  {
+    "id": 239,
+    "word": "invoke",
+    "meaning_tr": "başvurmak, anmak",
+    "synonym_en": "cite",
+    "level": "Orta",
+    "example_en": "The author chose the word invoke to emphasize an important distinction."
+  },
+  {
+    "id": 240,
+    "word": "juxtapose",
+    "meaning_tr": "yan yana koymak",
+    "synonym_en": "place side by side",
+    "level": "Orta",
+    "example_en": "The editor highlighted juxtapose as a key term in the discussion."
+  },
+  {
+    "id": 241,
+    "word": "legitimate",
+    "meaning_tr": "meşru",
+    "synonym_en": "valid",
+    "level": "Orta",
+    "example_en": "The researchers described the results as legitimate in their final report."
+  },
+  {
+    "id": 242,
+    "word": "lucid",
+    "meaning_tr": "açık, anlaşılır",
+    "synonym_en": "clear",
+    "level": "Orta",
+    "example_en": "The historian used the term lucid to characterize the situation."
+  },
+  {
+    "id": 243,
+    "word": "marginal",
+    "meaning_tr": "çok küçük, sınırlı",
+    "synonym_en": "minor",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is marginal."
+  },
+  {
+    "id": 244,
+    "word": "meticulous",
+    "meaning_tr": "titiz",
+    "synonym_en": "careful",
+    "level": "Orta",
+    "example_en": "The author chose the word meticulous to emphasize an important distinction."
+  },
+  {
+    "id": 245,
+    "word": "mitigate",
+    "meaning_tr": "hafifletmek",
+    "synonym_en": "alleviate",
+    "level": "Orta",
+    "example_en": "The editor highlighted mitigate as a key term in the discussion."
+  },
+  {
+    "id": 246,
+    "word": "mundane",
+    "meaning_tr": "sıradan",
+    "synonym_en": "ordinary",
+    "level": "Orta",
+    "example_en": "The researchers described the results as mundane in their final report."
+  },
+  {
+    "id": 247,
+    "word": "nuance",
+    "meaning_tr": "ince anlam farkı",
+    "synonym_en": "subtlety",
+    "level": "Orta",
+    "example_en": "The historian used the term nuance to characterize the situation."
+  },
+  {
+    "id": 248,
+    "word": "obscure",
+    "meaning_tr": "belirsizleştirmek",
+    "synonym_en": "conceal",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is obscure."
+  },
+  {
+    "id": 249,
+    "word": "obsolete",
+    "meaning_tr": "eskimiş",
+    "synonym_en": "outdated",
+    "level": "Orta",
+    "example_en": "The author chose the word obsolete to emphasize an important distinction."
+  },
+  {
+    "id": 250,
+    "word": "ominous",
+    "meaning_tr": "uğursuz, tehditkâr",
+    "synonym_en": "threatening",
+    "level": "Orta",
+    "example_en": "The editor highlighted ominous as a key term in the discussion."
+  },
+  {
+    "id": 251,
+    "word": "optimize",
+    "meaning_tr": "en iyi hale getirmek",
+    "synonym_en": "improve",
+    "level": "Orta",
+    "example_en": "The researchers described the results as optimize in their final report."
+  },
+  {
+    "id": 252,
+    "word": "ornate",
+    "meaning_tr": "süslü",
+    "synonym_en": "elaborate",
+    "level": "Orta",
+    "example_en": "The historian used the term ornate to characterize the situation."
+  },
+  {
+    "id": 253,
+    "word": "outweigh",
+    "meaning_tr": "ağır basmak",
+    "synonym_en": "exceed",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is outweigh."
+  },
+  {
+    "id": 254,
+    "word": "paradox",
+    "meaning_tr": "çelişki gibi görünen durum",
+    "synonym_en": "contradiction",
+    "level": "Orta",
+    "example_en": "The author chose the word paradox to emphasize an important distinction."
+  },
+  {
+    "id": 255,
+    "word": "paradigm",
+    "meaning_tr": "model, düşünce çerçevesi",
+    "synonym_en": "model",
+    "level": "Orta",
+    "example_en": "The editor highlighted paradigm as a key term in the discussion."
+  },
+  {
+    "id": 256,
+    "word": "paramount",
+    "meaning_tr": "en önemli",
+    "synonym_en": "supreme",
+    "level": "Orta",
+    "example_en": "The researchers described the results as paramount in their final report."
+  },
+  {
+    "id": 257,
+    "word": "perceive",
+    "meaning_tr": "algılamak",
+    "synonym_en": "notice",
+    "level": "Orta",
+    "example_en": "The historian used the term perceive to characterize the situation."
+  },
+  {
+    "id": 258,
+    "word": "peripheral",
+    "meaning_tr": "ikincil, kenardaki",
+    "synonym_en": "secondary",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is peripheral."
+  },
+  {
+    "id": 259,
+    "word": "perpetuate",
+    "meaning_tr": "sürdürmek",
+    "synonym_en": "maintain",
+    "level": "Orta",
+    "example_en": "The author chose the word perpetuate to emphasize an important distinction."
+  },
+  {
+    "id": 260,
+    "word": "pertinent",
+    "meaning_tr": "konuyla ilgili",
+    "synonym_en": "relevant",
+    "level": "Orta",
+    "example_en": "The editor highlighted pertinent as a key term in the discussion."
+  },
+  {
+    "id": 261,
+    "word": "plausible",
+    "meaning_tr": "makul",
+    "synonym_en": "believable",
+    "level": "Orta",
+    "example_en": "The researchers described the results as plausible in their final report."
+  },
+  {
+    "id": 262,
+    "word": "pragmatic",
+    "meaning_tr": "pratik, gerçekçi",
+    "synonym_en": "practical",
+    "level": "Orta",
+    "example_en": "The historian used the term pragmatic to characterize the situation."
+  },
+  {
+    "id": 263,
+    "word": "precede",
+    "meaning_tr": "önce gelmek",
+    "synonym_en": "come before",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is precede."
+  },
+  {
+    "id": 264,
+    "word": "preclude",
+    "meaning_tr": "önlemek",
+    "synonym_en": "prevent",
+    "level": "Orta",
+    "example_en": "The author chose the word preclude to emphasize an important distinction."
+  },
+  {
+    "id": 265,
+    "word": "predominant",
+    "meaning_tr": "baskın",
+    "synonym_en": "dominant",
+    "level": "Orta",
+    "example_en": "The editor highlighted predominant as a key term in the discussion."
+  },
+  {
+    "id": 266,
+    "word": "presume",
+    "meaning_tr": "varsaymak",
+    "synonym_en": "assume",
+    "level": "Orta",
+    "example_en": "The researchers described the results as presume in their final report."
+  },
+  {
+    "id": 267,
+    "word": "prevalent",
+    "meaning_tr": "yaygın",
+    "synonym_en": "widespread",
+    "level": "Orta",
+    "example_en": "The historian used the term prevalent to characterize the situation."
+  },
+  {
+    "id": 268,
+    "word": "prohibit",
+    "meaning_tr": "yasaklamak",
+    "synonym_en": "forbid",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is prohibit."
+  },
+  {
+    "id": 269,
+    "word": "proliferate",
+    "meaning_tr": "hızla çoğalmak",
+    "synonym_en": "multiply",
+    "level": "Orta",
+    "example_en": "The author chose the word proliferate to emphasize an important distinction."
+  },
+  {
+    "id": 270,
+    "word": "proponent",
+    "meaning_tr": "savunucu",
+    "synonym_en": "supporter",
+    "level": "Orta",
+    "example_en": "The editor highlighted proponent as a key term in the discussion."
+  },
+  {
+    "id": 271,
+    "word": "qualify",
+    "meaning_tr": "sınırlandırmak, şart koşmak",
+    "synonym_en": "modify",
+    "level": "Orta",
+    "example_en": "The researchers described the results as qualify in their final report."
+  },
+  {
+    "id": 272,
+    "word": "quantify",
+    "meaning_tr": "nicelik olarak ölçmek",
+    "synonym_en": "measure",
+    "level": "Orta",
+    "example_en": "The historian used the term quantify to characterize the situation."
+  },
+  {
+    "id": 273,
+    "word": "rebut",
+    "meaning_tr": "karşı çıkıp çürütmek",
+    "synonym_en": "refute",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is rebut."
+  },
+  {
+    "id": 274,
+    "word": "reciprocal",
+    "meaning_tr": "karşılıklı",
+    "synonym_en": "mutual",
+    "level": "Orta",
+    "example_en": "The author chose the word reciprocal to emphasize an important distinction."
+  },
+  {
+    "id": 275,
+    "word": "redundant",
+    "meaning_tr": "gereksiz, tekrarlı",
+    "synonym_en": "superfluous",
+    "level": "Orta",
+    "example_en": "The editor highlighted redundant as a key term in the discussion."
+  },
+  {
+    "id": 276,
+    "word": "refute",
+    "meaning_tr": "çürütmek",
+    "synonym_en": "disprove",
+    "level": "Orta",
+    "example_en": "The researchers described the results as refute in their final report."
+  },
+  {
+    "id": 277,
+    "word": "reluctant",
+    "meaning_tr": "isteksiz",
+    "synonym_en": "unwilling",
+    "level": "Orta",
+    "example_en": "The historian used the term reluctant to characterize the situation."
+  },
+  {
+    "id": 278,
+    "word": "remedy",
+    "meaning_tr": "çare bulmak",
+    "synonym_en": "correct",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is remedy."
+  },
+  {
+    "id": 279,
+    "word": "replicate",
+    "meaning_tr": "tekrarlamak",
+    "synonym_en": "reproduce",
+    "level": "Orta",
+    "example_en": "The author chose the word replicate to emphasize an important distinction."
+  },
+  {
+    "id": 280,
+    "word": "resilient",
+    "meaning_tr": "dayanıklı",
+    "synonym_en": "robust",
+    "level": "Orta",
+    "example_en": "The editor highlighted resilient as a key term in the discussion."
+  },
+  {
+    "id": 281,
+    "word": "respective",
+    "meaning_tr": "her birine ait",
+    "synonym_en": "individual",
+    "level": "Orta",
+    "example_en": "The researchers described the results as respective in their final report."
+  },
+  {
+    "id": 282,
+    "word": "restrict",
+    "meaning_tr": "kısıtlamak",
+    "synonym_en": "limit",
+    "level": "Orta",
+    "example_en": "The historian used the term restrict to characterize the situation."
+  },
+  {
+    "id": 283,
+    "word": "retract",
+    "meaning_tr": "geri çekmek",
+    "synonym_en": "withdraw",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is retract."
+  },
+  {
+    "id": 284,
+    "word": "robust",
+    "meaning_tr": "sağlam",
+    "synonym_en": "strong",
+    "level": "Orta",
+    "example_en": "The author chose the word robust to emphasize an important distinction."
+  },
+  {
+    "id": 285,
+    "word": "scrutinize",
+    "meaning_tr": "titizlikle incelemek",
+    "synonym_en": "examine",
+    "level": "Orta",
+    "example_en": "The editor highlighted scrutinize as a key term in the discussion."
+  },
+  {
+    "id": 286,
+    "word": "skeptical",
+    "meaning_tr": "şüpheci",
+    "synonym_en": "doubtful",
+    "level": "Orta",
+    "example_en": "The researchers described the results as skeptical in their final report."
+  },
+  {
+    "id": 287,
+    "word": "sporadic",
+    "meaning_tr": "ara sıra görülen",
+    "synonym_en": "occasional",
+    "level": "Orta",
+    "example_en": "The historian used the term sporadic to characterize the situation."
+  },
+  {
+    "id": 288,
+    "word": "stagnant",
+    "meaning_tr": "durgun",
+    "synonym_en": "inactive",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is stagnant."
+  },
+  {
+    "id": 289,
+    "word": "stipulate",
+    "meaning_tr": "şart koşmak",
+    "synonym_en": "specify",
+    "level": "Orta",
+    "example_en": "The author chose the word stipulate to emphasize an important distinction."
+  },
+  {
+    "id": 290,
+    "word": "substantiate",
+    "meaning_tr": "kanıtlamak",
+    "synonym_en": "verify",
+    "level": "Orta",
+    "example_en": "The editor highlighted substantiate as a key term in the discussion."
+  },
+  {
+    "id": 291,
+    "word": "subtle",
+    "meaning_tr": "ince, zor fark edilen",
+    "synonym_en": "delicate",
+    "level": "Orta",
+    "example_en": "The researchers described the results as subtle in their final report."
+  },
+  {
+    "id": 292,
+    "word": "succinct",
+    "meaning_tr": "özlü",
+    "synonym_en": "concise",
+    "level": "Orta",
+    "example_en": "The historian used the term succinct to characterize the situation."
+  },
+  {
+    "id": 293,
+    "word": "superficial",
+    "meaning_tr": "yüzeysel",
+    "synonym_en": "shallow",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is superficial."
+  },
+  {
+    "id": 294,
+    "word": "supersede",
+    "meaning_tr": "yerini almak",
+    "synonym_en": "replace",
+    "level": "Orta",
+    "example_en": "The author chose the word supersede to emphasize an important distinction."
+  },
+  {
+    "id": 295,
+    "word": "suppress",
+    "meaning_tr": "bastırmak",
+    "synonym_en": "restrain",
+    "level": "Orta",
+    "example_en": "The editor highlighted suppress as a key term in the discussion."
+  },
+  {
+    "id": 296,
+    "word": "synthesize",
+    "meaning_tr": "sentezlemek",
+    "synonym_en": "combine",
+    "level": "Orta",
+    "example_en": "The researchers described the results as synthesize in their final report."
+  },
+  {
+    "id": 297,
+    "word": "tacit",
+    "meaning_tr": "üstü kapalı",
+    "synonym_en": "unspoken",
+    "level": "Orta",
+    "example_en": "The historian used the term tacit to characterize the situation."
+  },
+  {
+    "id": 298,
+    "word": "tangible",
+    "meaning_tr": "somut",
+    "synonym_en": "concrete",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is tangible."
+  },
+  {
+    "id": 299,
+    "word": "thwart",
+    "meaning_tr": "engellemek",
+    "synonym_en": "foil",
+    "level": "Orta",
+    "example_en": "The author chose the word thwart to emphasize an important distinction."
+  },
+  {
+    "id": 300,
+    "word": "transient",
+    "meaning_tr": "geçici",
+    "synonym_en": "temporary",
+    "level": "Orta",
+    "example_en": "The editor highlighted transient as a key term in the discussion."
+  },
+  {
+    "id": 301,
+    "word": "transparent",
+    "meaning_tr": "şeffaf",
+    "synonym_en": "clear",
+    "level": "Orta",
+    "example_en": "The researchers described the results as transparent in their final report."
+  },
+  {
+    "id": 302,
+    "word": "trivial",
+    "meaning_tr": "önemsiz",
+    "synonym_en": "minor",
+    "level": "Orta",
+    "example_en": "The historian used the term trivial to characterize the situation."
+  },
+  {
+    "id": 303,
+    "word": "ubiquitous",
+    "meaning_tr": "her yerde bulunan",
+    "synonym_en": "omnipresent",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is ubiquitous."
+  },
+  {
+    "id": 304,
+    "word": "unanimous",
+    "meaning_tr": "oy birliğiyle",
+    "synonym_en": "united",
+    "level": "Orta",
+    "example_en": "The author chose the word unanimous to emphasize an important distinction."
+  },
+  {
+    "id": 305,
+    "word": "unprecedented",
+    "meaning_tr": "benzeri görülmemiş",
+    "synonym_en": "novel",
+    "level": "Orta",
+    "example_en": "The editor highlighted unprecedented as a key term in the discussion."
+  },
+  {
+    "id": 306,
+    "word": "validate",
+    "meaning_tr": "doğrulamak",
+    "synonym_en": "confirm",
+    "level": "Orta",
+    "example_en": "The researchers described the results as validate in their final report."
+  },
+  {
+    "id": 307,
+    "word": "versatile",
+    "meaning_tr": "çok yönlü",
+    "synonym_en": "adaptable",
+    "level": "Orta",
+    "example_en": "The historian used the term versatile to characterize the situation."
+  },
+  {
+    "id": 308,
+    "word": "vulnerable",
+    "meaning_tr": "savunmasız",
+    "synonym_en": "susceptible",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is vulnerable."
+  },
+  {
+    "id": 309,
+    "word": "warrant",
+    "meaning_tr": "haklı çıkarmak, gerektirmek",
+    "synonym_en": "justify",
+    "level": "Orta",
+    "example_en": "The author chose the word warrant to emphasize an important distinction."
+  },
+  {
+    "id": 310,
+    "word": "yield",
+    "meaning_tr": "sonuç vermek",
+    "synonym_en": "produce",
+    "level": "Orta",
+    "example_en": "The editor highlighted yield as a key term in the discussion."
+  },
+  {
+    "id": 311,
+    "word": "abate",
+    "meaning_tr": "azalmak",
+    "synonym_en": "subside",
+    "level": "Orta",
+    "example_en": "The researchers described the results as abate in their final report."
+  },
+  {
+    "id": 312,
+    "word": "aberration",
+    "meaning_tr": "normalden sapma",
+    "synonym_en": "anomaly",
+    "level": "Orta",
+    "example_en": "The historian used the term aberration to characterize the situation."
+  },
+  {
+    "id": 313,
+    "word": "abhor",
+    "meaning_tr": "nefret etmek",
+    "synonym_en": "detest",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is abhor."
+  },
+  {
+    "id": 314,
+    "word": "abstain",
+    "meaning_tr": "kaçınmak",
+    "synonym_en": "refrain",
+    "level": "Orta",
+    "example_en": "The author chose the word abstain to emphasize an important distinction."
+  },
+  {
+    "id": 315,
+    "word": "acclaim",
+    "meaning_tr": "övgüyle karşılamak",
+    "synonym_en": "praise",
+    "level": "Orta",
+    "example_en": "The editor highlighted acclaim as a key term in the discussion."
+  },
+  {
+    "id": 316,
+    "word": "acquiesce",
+    "meaning_tr": "isteksizce kabul etmek",
+    "synonym_en": "comply",
+    "level": "Orta",
+    "example_en": "The researchers described the results as acquiesce in their final report."
+  },
+  {
+    "id": 317,
+    "word": "adamant",
+    "meaning_tr": "kararlı, tavizsiz",
+    "synonym_en": "unyielding",
+    "level": "Orta",
+    "example_en": "The historian used the term adamant to characterize the situation."
+  },
+  {
+    "id": 318,
+    "word": "adept",
+    "meaning_tr": "becerikli",
+    "synonym_en": "skilled",
+    "level": "Orta",
+    "example_en": "The passage asks readers to consider whether the claim is adept."
+  },
+  {
+    "id": 319,
+    "word": "admonish",
+    "meaning_tr": "uyarmak",
+    "synonym_en": "reprimand",
+    "level": "Orta",
+    "example_en": "The author chose the word admonish to emphasize an important distinction."
+  },
+  {
+    "id": 320,
+    "word": "adroit",
+    "meaning_tr": "maharetli",
+    "synonym_en": "skillful",
+    "level": "Orta",
+    "example_en": "The editor highlighted adroit as a key term in the discussion."
+  },
+  {
+    "id": 321,
+    "word": "affluent",
+    "meaning_tr": "varlıklı",
+    "synonym_en": "wealthy",
+    "level": "İleri",
+    "example_en": "The researchers described the results as affluent in their final report."
+  },
+  {
+    "id": 322,
+    "word": "aggravate",
+    "meaning_tr": "kötüleştirmek",
+    "synonym_en": "worsen",
+    "level": "İleri",
+    "example_en": "The historian used the term aggravate to characterize the situation."
+  },
+  {
+    "id": 323,
+    "word": "altruistic",
+    "meaning_tr": "özgeci",
+    "synonym_en": "selfless",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is altruistic."
+  },
+  {
+    "id": 324,
+    "word": "ambivalent",
+    "meaning_tr": "kararsız, ikircikli",
+    "synonym_en": "conflicted",
+    "level": "İleri",
+    "example_en": "The author chose the word ambivalent to emphasize an important distinction."
+  },
+  {
+    "id": 325,
+    "word": "ameliorate",
+    "meaning_tr": "iyileştirmek",
+    "synonym_en": "improve",
+    "level": "İleri",
+    "example_en": "The editor highlighted ameliorate as a key term in the discussion."
+  },
+  {
+    "id": 326,
+    "word": "anachronistic",
+    "meaning_tr": "çağ dışı",
+    "synonym_en": "outdated",
+    "level": "İleri",
+    "example_en": "The researchers described the results as anachronistic in their final report."
+  },
+  {
+    "id": 327,
+    "word": "anecdotal",
+    "meaning_tr": "kişisel anlatıya dayalı",
+    "synonym_en": "informal",
+    "level": "İleri",
+    "example_en": "The historian used the term anecdotal to characterize the situation."
+  },
+  {
+    "id": 328,
+    "word": "antagonize",
+    "meaning_tr": "düşman etmek",
+    "synonym_en": "provoke",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is antagonize."
+  },
+  {
+    "id": 329,
+    "word": "apathetic",
+    "meaning_tr": "ilgisiz",
+    "synonym_en": "indifferent",
+    "level": "İleri",
+    "example_en": "The author chose the word apathetic to emphasize an important distinction."
+  },
+  {
+    "id": 330,
+    "word": "appease",
+    "meaning_tr": "yatıştırmak",
+    "synonym_en": "pacify",
+    "level": "İleri",
+    "example_en": "The editor highlighted appease as a key term in the discussion."
+  },
+  {
+    "id": 331,
+    "word": "apprehensive",
+    "meaning_tr": "endişeli",
+    "synonym_en": "anxious",
+    "level": "İleri",
+    "example_en": "The researchers described the results as apprehensive in their final report."
+  },
+  {
+    "id": 332,
+    "word": "arduous",
+    "meaning_tr": "zahmetli",
+    "synonym_en": "difficult",
+    "level": "İleri",
+    "example_en": "The historian used the term arduous to characterize the situation."
+  },
+  {
+    "id": 333,
+    "word": "ascertain",
+    "meaning_tr": "kesin olarak öğrenmek",
+    "synonym_en": "determine",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is ascertain."
+  },
+  {
+    "id": 334,
+    "word": "assiduous",
+    "meaning_tr": "çalışkan, özenli",
+    "synonym_en": "diligent",
+    "level": "İleri",
+    "example_en": "The author chose the word assiduous to emphasize an important distinction."
+  },
+  {
+    "id": 335,
+    "word": "astute",
+    "meaning_tr": "zeki, sezgili",
+    "synonym_en": "shrewd",
+    "level": "İleri",
+    "example_en": "The editor highlighted astute as a key term in the discussion."
+  },
+  {
+    "id": 336,
+    "word": "audacious",
+    "meaning_tr": "cüretkâr",
+    "synonym_en": "bold",
+    "level": "İleri",
+    "example_en": "The researchers described the results as audacious in their final report."
+  },
+  {
+    "id": 337,
+    "word": "avaricious",
+    "meaning_tr": "açgözlü",
+    "synonym_en": "greedy",
+    "level": "İleri",
+    "example_en": "The historian used the term avaricious to characterize the situation."
+  },
+  {
+    "id": 338,
+    "word": "banal",
+    "meaning_tr": "basmakalıp",
+    "synonym_en": "trite",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is banal."
+  },
+  {
+    "id": 339,
+    "word": "belligerent",
+    "meaning_tr": "kavgacı",
+    "synonym_en": "hostile",
+    "level": "İleri",
+    "example_en": "The author chose the word belligerent to emphasize an important distinction."
+  },
+  {
+    "id": 340,
+    "word": "benevolent",
+    "meaning_tr": "iyiliksever",
+    "synonym_en": "kind",
+    "level": "İleri",
+    "example_en": "The editor highlighted benevolent as a key term in the discussion."
+  },
+  {
+    "id": 341,
+    "word": "blatant",
+    "meaning_tr": "bariz, göze batan",
+    "synonym_en": "obvious",
+    "level": "İleri",
+    "example_en": "The researchers described the results as blatant in their final report."
+  },
+  {
+    "id": 342,
+    "word": "brevity",
+    "meaning_tr": "kısalık, özlülük",
+    "synonym_en": "conciseness",
+    "level": "İleri",
+    "example_en": "The historian used the term brevity to characterize the situation."
+  },
+  {
+    "id": 343,
+    "word": "burgeon",
+    "meaning_tr": "hızla büyümek",
+    "synonym_en": "flourish",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is burgeon."
+  },
+  {
+    "id": 344,
+    "word": "capricious",
+    "meaning_tr": "değişken, tutarsız",
+    "synonym_en": "fickle",
+    "level": "İleri",
+    "example_en": "The author chose the word capricious to emphasize an important distinction."
+  },
+  {
+    "id": 345,
+    "word": "censure",
+    "meaning_tr": "kınamak",
+    "synonym_en": "condemn",
+    "level": "İleri",
+    "example_en": "The editor highlighted censure as a key term in the discussion."
+  },
+  {
+    "id": 346,
+    "word": "circumspect",
+    "meaning_tr": "ihtiyatlı",
+    "synonym_en": "cautious",
+    "level": "İleri",
+    "example_en": "The researchers described the results as circumspect in their final report."
+  },
+  {
+    "id": 347,
+    "word": "clandestine",
+    "meaning_tr": "gizli",
+    "synonym_en": "secret",
+    "level": "İleri",
+    "example_en": "The historian used the term clandestine to characterize the situation."
+  },
+  {
+    "id": 348,
+    "word": "coalesce",
+    "meaning_tr": "birleşmek",
+    "synonym_en": "merge",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is coalesce."
+  },
+  {
+    "id": 349,
+    "word": "complacent",
+    "meaning_tr": "kendinden memnun",
+    "synonym_en": "self-satisfied",
+    "level": "İleri",
+    "example_en": "The author chose the word complacent to emphasize an important distinction."
+  },
+  {
+    "id": 350,
+    "word": "conciliatory",
+    "meaning_tr": "uzlaştırıcı",
+    "synonym_en": "appeasing",
+    "level": "İleri",
+    "example_en": "The editor highlighted conciliatory as a key term in the discussion."
+  },
+  {
+    "id": 351,
+    "word": "concur",
+    "meaning_tr": "aynı fikirde olmak",
+    "synonym_en": "agree",
+    "level": "İleri",
+    "example_en": "The researchers described the results as concur in their final report."
+  },
+  {
+    "id": 352,
+    "word": "condone",
+    "meaning_tr": "hoş görmek",
+    "synonym_en": "overlook",
+    "level": "İleri",
+    "example_en": "The historian used the term condone to characterize the situation."
+  },
+  {
+    "id": 353,
+    "word": "conspicuous",
+    "meaning_tr": "göze çarpan",
+    "synonym_en": "noticeable",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is conspicuous."
+  },
+  {
+    "id": 354,
+    "word": "contentious",
+    "meaning_tr": "tartışmalı",
+    "synonym_en": "controversial",
+    "level": "İleri",
+    "example_en": "The author chose the word contentious to emphasize an important distinction."
+  },
+  {
+    "id": 355,
+    "word": "contrite",
+    "meaning_tr": "pişman",
+    "synonym_en": "remorseful",
+    "level": "İleri",
+    "example_en": "The editor highlighted contrite as a key term in the discussion."
+  },
+  {
+    "id": 356,
+    "word": "copious",
+    "meaning_tr": "bol miktarda",
+    "synonym_en": "abundant",
+    "level": "İleri",
+    "example_en": "The researchers described the results as copious in their final report."
+  },
+  {
+    "id": 357,
+    "word": "cryptic",
+    "meaning_tr": "anlaşılması güç",
+    "synonym_en": "enigmatic",
+    "level": "İleri",
+    "example_en": "The historian used the term cryptic to characterize the situation."
+  },
+  {
+    "id": 358,
+    "word": "deference",
+    "meaning_tr": "saygılı boyun eğme",
+    "synonym_en": "respect",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is deference."
+  },
+  {
+    "id": 359,
+    "word": "delineate",
+    "meaning_tr": "ayrıntılarıyla açıklamak",
+    "synonym_en": "outline",
+    "level": "İleri",
+    "example_en": "The author chose the word delineate to emphasize an important distinction."
+  },
+  {
+    "id": 360,
+    "word": "demur",
+    "meaning_tr": "itiraz etmek",
+    "synonym_en": "object",
+    "level": "İleri",
+    "example_en": "The editor highlighted demur as a key term in the discussion."
+  },
+  {
+    "id": 361,
+    "word": "denounce",
+    "meaning_tr": "kınamak",
+    "synonym_en": "condemn",
+    "level": "İleri",
+    "example_en": "The researchers described the results as denounce in their final report."
+  },
+  {
+    "id": 362,
+    "word": "deride",
+    "meaning_tr": "alay etmek",
+    "synonym_en": "mock",
+    "level": "İleri",
+    "example_en": "The historian used the term deride to characterize the situation."
+  },
+  {
+    "id": 363,
+    "word": "despondent",
+    "meaning_tr": "umutsuz",
+    "synonym_en": "dejected",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is despondent."
+  },
+  {
+    "id": 364,
+    "word": "didactic",
+    "meaning_tr": "öğretici",
+    "synonym_en": "instructive",
+    "level": "İleri",
+    "example_en": "The author chose the word didactic to emphasize an important distinction."
+  },
+  {
+    "id": 365,
+    "word": "diffident",
+    "meaning_tr": "çekingen",
+    "synonym_en": "shy",
+    "level": "İleri",
+    "example_en": "The editor highlighted diffident as a key term in the discussion."
+  },
+  {
+    "id": 366,
+    "word": "dilapidated",
+    "meaning_tr": "harap",
+    "synonym_en": "run-down",
+    "level": "İleri",
+    "example_en": "The researchers described the results as dilapidated in their final report."
+  },
+  {
+    "id": 367,
+    "word": "diligent",
+    "meaning_tr": "çalışkan",
+    "synonym_en": "industrious",
+    "level": "İleri",
+    "example_en": "The historian used the term diligent to characterize the situation."
+  },
+  {
+    "id": 368,
+    "word": "discern",
+    "meaning_tr": "ayırt etmek",
+    "synonym_en": "perceive",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is discern."
+  },
+  {
+    "id": 369,
+    "word": "discredit",
+    "meaning_tr": "itibarını sarsmak",
+    "synonym_en": "undermine",
+    "level": "İleri",
+    "example_en": "The author chose the word discredit to emphasize an important distinction."
+  },
+  {
+    "id": 370,
+    "word": "disdain",
+    "meaning_tr": "küçümsemek",
+    "synonym_en": "scorn",
+    "level": "İleri",
+    "example_en": "The editor highlighted disdain as a key term in the discussion."
+  },
+  {
+    "id": 371,
+    "word": "disinterested",
+    "meaning_tr": "tarafsız",
+    "synonym_en": "impartial",
+    "level": "İleri",
+    "example_en": "The researchers described the results as disinterested in their final report."
+  },
+  {
+    "id": 372,
+    "word": "dogmatic",
+    "meaning_tr": "katı görüşlü",
+    "synonym_en": "inflexible",
+    "level": "İleri",
+    "example_en": "The historian used the term dogmatic to characterize the situation."
+  },
+  {
+    "id": 373,
+    "word": "dormant",
+    "meaning_tr": "uykuda, etkin olmayan",
+    "synonym_en": "inactive",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is dormant."
+  },
+  {
+    "id": 374,
+    "word": "ebullient",
+    "meaning_tr": "coşkulu",
+    "synonym_en": "enthusiastic",
+    "level": "İleri",
+    "example_en": "The author chose the word ebullient to emphasize an important distinction."
+  },
+  {
+    "id": 375,
+    "word": "eclectic",
+    "meaning_tr": "çeşitli kaynaklardan seçilmiş",
+    "synonym_en": "diverse",
+    "level": "İleri",
+    "example_en": "The editor highlighted eclectic as a key term in the discussion."
+  },
+  {
+    "id": 376,
+    "word": "efficacious",
+    "meaning_tr": "etkili",
+    "synonym_en": "effective",
+    "level": "İleri",
+    "example_en": "The researchers described the results as efficacious in their final report."
+  },
+  {
+    "id": 377,
+    "word": "egregious",
+    "meaning_tr": "son derece kötü",
+    "synonym_en": "flagrant",
+    "level": "İleri",
+    "example_en": "The historian used the term egregious to characterize the situation."
+  },
+  {
+    "id": 378,
+    "word": "eloquent",
+    "meaning_tr": "etkili konuşan",
+    "synonym_en": "articulate",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is eloquent."
+  },
+  {
+    "id": 379,
+    "word": "elusive",
+    "meaning_tr": "yakalanması zor",
+    "synonym_en": "evasive",
+    "level": "İleri",
+    "example_en": "The author chose the word elusive to emphasize an important distinction."
+  },
+  {
+    "id": 380,
+    "word": "eminent",
+    "meaning_tr": "seçkin, tanınmış",
+    "synonym_en": "distinguished",
+    "level": "İleri",
+    "example_en": "The editor highlighted eminent as a key term in the discussion."
+  },
+  {
+    "id": 381,
+    "word": "enigmatic",
+    "meaning_tr": "gizemli",
+    "synonym_en": "mysterious",
+    "level": "İleri",
+    "example_en": "The researchers described the results as enigmatic in their final report."
+  },
+  {
+    "id": 382,
+    "word": "ephemeral",
+    "meaning_tr": "kısa ömürlü",
+    "synonym_en": "fleeting",
+    "level": "İleri",
+    "example_en": "The historian used the term ephemeral to characterize the situation."
+  },
+  {
+    "id": 383,
+    "word": "equanimity",
+    "meaning_tr": "soğukkanlılık",
+    "synonym_en": "composure",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is equanimity."
+  },
+  {
+    "id": 384,
+    "word": "equivocal",
+    "meaning_tr": "muğlak",
+    "synonym_en": "ambiguous",
+    "level": "İleri",
+    "example_en": "The author chose the word equivocal to emphasize an important distinction."
+  },
+  {
+    "id": 385,
+    "word": "erudite",
+    "meaning_tr": "bilgili",
+    "synonym_en": "scholarly",
+    "level": "İleri",
+    "example_en": "The editor highlighted erudite as a key term in the discussion."
+  },
+  {
+    "id": 386,
+    "word": "esoteric",
+    "meaning_tr": "az kişinin anlayabileceği",
+    "synonym_en": "obscure",
+    "level": "İleri",
+    "example_en": "The researchers described the results as esoteric in their final report."
+  },
+  {
+    "id": 387,
+    "word": "exacting",
+    "meaning_tr": "titiz, çok şey isteyen",
+    "synonym_en": "demanding",
+    "level": "İleri",
+    "example_en": "The historian used the term exacting to characterize the situation."
+  },
+  {
+    "id": 388,
+    "word": "exonerate",
+    "meaning_tr": "aklamak",
+    "synonym_en": "absolve",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is exonerate."
+  },
+  {
+    "id": 389,
+    "word": "expedient",
+    "meaning_tr": "amaca uygun, pratik",
+    "synonym_en": "convenient",
+    "level": "İleri",
+    "example_en": "The author chose the word expedient to emphasize an important distinction."
+  },
+  {
+    "id": 390,
+    "word": "extol",
+    "meaning_tr": "övmek",
+    "synonym_en": "praise",
+    "level": "İleri",
+    "example_en": "The editor highlighted extol as a key term in the discussion."
+  },
+  {
+    "id": 391,
+    "word": "fallacious",
+    "meaning_tr": "yanıltıcı",
+    "synonym_en": "misleading",
+    "level": "İleri",
+    "example_en": "The researchers described the results as fallacious in their final report."
+  },
+  {
+    "id": 392,
+    "word": "fastidious",
+    "meaning_tr": "aşırı titiz",
+    "synonym_en": "meticulous",
+    "level": "İleri",
+    "example_en": "The historian used the term fastidious to characterize the situation."
+  },
+  {
+    "id": 393,
+    "word": "fervent",
+    "meaning_tr": "ateşli, tutkulu",
+    "synonym_en": "passionate",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is fervent."
+  },
+  {
+    "id": 394,
+    "word": "flagrant",
+    "meaning_tr": "apaçık, vahim",
+    "synonym_en": "glaring",
+    "level": "İleri",
+    "example_en": "The author chose the word flagrant to emphasize an important distinction."
+  },
+  {
+    "id": 395,
+    "word": "flippant",
+    "meaning_tr": "laubali",
+    "synonym_en": "frivolous",
+    "level": "İleri",
+    "example_en": "The editor highlighted flippant as a key term in the discussion."
+  },
+  {
+    "id": 396,
+    "word": "fortuitous",
+    "meaning_tr": "tesadüfi",
+    "synonym_en": "accidental",
+    "level": "İleri",
+    "example_en": "The researchers described the results as fortuitous in their final report."
+  },
+  {
+    "id": 397,
+    "word": "frivolous",
+    "meaning_tr": "ciddiyetsiz",
+    "synonym_en": "trivial",
+    "level": "İleri",
+    "example_en": "The historian used the term frivolous to characterize the situation."
+  },
+  {
+    "id": 398,
+    "word": "furtive",
+    "meaning_tr": "gizlice yapılan",
+    "synonym_en": "stealthy",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is furtive."
+  },
+  {
+    "id": 399,
+    "word": "garrulous",
+    "meaning_tr": "geveze",
+    "synonym_en": "talkative",
+    "level": "İleri",
+    "example_en": "The author chose the word garrulous to emphasize an important distinction."
+  },
+  {
+    "id": 400,
+    "word": "germane",
+    "meaning_tr": "konuyla ilgili",
+    "synonym_en": "relevant",
+    "level": "İleri",
+    "example_en": "The editor highlighted germane as a key term in the discussion."
+  },
+  {
+    "id": 401,
+    "word": "gregarious",
+    "meaning_tr": "sosyal, cana yakın",
+    "synonym_en": "sociable",
+    "level": "İleri",
+    "example_en": "The researchers described the results as gregarious in their final report."
+  },
+  {
+    "id": 402,
+    "word": "guile",
+    "meaning_tr": "hilekârlık",
+    "synonym_en": "deceit",
+    "level": "İleri",
+    "example_en": "The historian used the term guile to characterize the situation."
+  },
+  {
+    "id": 403,
+    "word": "hackneyed",
+    "meaning_tr": "klişeleşmiş",
+    "synonym_en": "overused",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is hackneyed."
+  },
+  {
+    "id": 404,
+    "word": "harbinger",
+    "meaning_tr": "habercisi",
+    "synonym_en": "forerunner",
+    "level": "İleri",
+    "example_en": "The author chose the word harbinger to emphasize an important distinction."
+  },
+  {
+    "id": 405,
+    "word": "hedonistic",
+    "meaning_tr": "hazcı",
+    "synonym_en": "pleasure-seeking",
+    "level": "İleri",
+    "example_en": "The editor highlighted hedonistic as a key term in the discussion."
+  },
+  {
+    "id": 406,
+    "word": "iconoclast",
+    "meaning_tr": "geleneklere karşı çıkan",
+    "synonym_en": "nonconformist",
+    "level": "İleri",
+    "example_en": "The researchers described the results as iconoclast in their final report."
+  },
+  {
+    "id": 407,
+    "word": "idiosyncratic",
+    "meaning_tr": "kendine özgü",
+    "synonym_en": "peculiar",
+    "level": "İleri",
+    "example_en": "The historian used the term idiosyncratic to characterize the situation."
+  },
+  {
+    "id": 408,
+    "word": "impeccable",
+    "meaning_tr": "kusursuz",
+    "synonym_en": "flawless",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is impeccable."
+  },
+  {
+    "id": 409,
+    "word": "implacable",
+    "meaning_tr": "yatıştırılamaz",
+    "synonym_en": "unrelenting",
+    "level": "İleri",
+    "example_en": "The author chose the word implacable to emphasize an important distinction."
+  },
+  {
+    "id": 410,
+    "word": "inane",
+    "meaning_tr": "saçma",
+    "synonym_en": "senseless",
+    "level": "İleri",
+    "example_en": "The editor highlighted inane as a key term in the discussion."
+  },
+  {
+    "id": 411,
+    "word": "incisive",
+    "meaning_tr": "keskin, isabetli",
+    "synonym_en": "penetrating",
+    "level": "İleri",
+    "example_en": "The researchers described the results as incisive in their final report."
+  },
+  {
+    "id": 412,
+    "word": "indolent",
+    "meaning_tr": "tembel",
+    "synonym_en": "lazy",
+    "level": "İleri",
+    "example_en": "The historian used the term indolent to characterize the situation."
+  },
+  {
+    "id": 413,
+    "word": "ineffable",
+    "meaning_tr": "sözcüklerle anlatılamaz",
+    "synonym_en": "indescribable",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is ineffable."
+  },
+  {
+    "id": 414,
+    "word": "inexorable",
+    "meaning_tr": "önlenemez",
+    "synonym_en": "relentless",
+    "level": "İleri",
+    "example_en": "The author chose the word inexorable to emphasize an important distinction."
+  },
+  {
+    "id": 415,
+    "word": "infallible",
+    "meaning_tr": "yanılmaz",
+    "synonym_en": "unerring",
+    "level": "İleri",
+    "example_en": "The editor highlighted infallible as a key term in the discussion."
+  },
+  {
+    "id": 416,
+    "word": "ingenuous",
+    "meaning_tr": "saf, içten",
+    "synonym_en": "naive",
+    "level": "İleri",
+    "example_en": "The researchers described the results as ingenuous in their final report."
+  },
+  {
+    "id": 417,
+    "word": "inimical",
+    "meaning_tr": "zararlı, düşmanca",
+    "synonym_en": "hostile",
+    "level": "İleri",
+    "example_en": "The historian used the term inimical to characterize the situation."
+  },
+  {
+    "id": 418,
+    "word": "insipid",
+    "meaning_tr": "tatsız, sıkıcı",
+    "synonym_en": "dull",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is insipid."
+  },
+  {
+    "id": 419,
+    "word": "intransigent",
+    "meaning_tr": "uzlaşmaz",
+    "synonym_en": "unyielding",
+    "level": "İleri",
+    "example_en": "The author chose the word intransigent to emphasize an important distinction."
+  },
+  {
+    "id": 420,
+    "word": "intrepid",
+    "meaning_tr": "korkusuz",
+    "synonym_en": "fearless",
+    "level": "İleri",
+    "example_en": "The editor highlighted intrepid as a key term in the discussion."
+  },
+  {
+    "id": 421,
+    "word": "irascible",
+    "meaning_tr": "çabuk öfkelenen",
+    "synonym_en": "irritable",
+    "level": "İleri",
+    "example_en": "The researchers described the results as irascible in their final report."
+  },
+  {
+    "id": 422,
+    "word": "irrefutable",
+    "meaning_tr": "çürütülemez",
+    "synonym_en": "indisputable",
+    "level": "İleri",
+    "example_en": "The historian used the term irrefutable to characterize the situation."
+  },
+  {
+    "id": 423,
+    "word": "laconic",
+    "meaning_tr": "az ve öz konuşan",
+    "synonym_en": "terse",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is laconic."
+  },
+  {
+    "id": 424,
+    "word": "laudable",
+    "meaning_tr": "övgüye değer",
+    "synonym_en": "praiseworthy",
+    "level": "İleri",
+    "example_en": "The author chose the word laudable to emphasize an important distinction."
+  },
+  {
+    "id": 425,
+    "word": "lethargic",
+    "meaning_tr": "halsiz, uyuşuk",
+    "synonym_en": "sluggish",
+    "level": "İleri",
+    "example_en": "The editor highlighted lethargic as a key term in the discussion."
+  },
+  {
+    "id": 426,
+    "word": "loquacious",
+    "meaning_tr": "çok konuşan",
+    "synonym_en": "talkative",
+    "level": "İleri",
+    "example_en": "The researchers described the results as loquacious in their final report."
+  },
+  {
+    "id": 427,
+    "word": "magnanimous",
+    "meaning_tr": "yüce gönüllü",
+    "synonym_en": "generous",
+    "level": "İleri",
+    "example_en": "The historian used the term magnanimous to characterize the situation."
+  },
+  {
+    "id": 428,
+    "word": "malevolent",
+    "meaning_tr": "kötü niyetli",
+    "synonym_en": "malicious",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is malevolent."
+  },
+  {
+    "id": 429,
+    "word": "malleable",
+    "meaning_tr": "kolay şekil alan",
+    "synonym_en": "pliable",
+    "level": "İleri",
+    "example_en": "The author chose the word malleable to emphasize an important distinction."
+  },
+  {
+    "id": 430,
+    "word": "maverick",
+    "meaning_tr": "bağımsız düşünen kişi",
+    "synonym_en": "nonconformist",
+    "level": "İleri",
+    "example_en": "The editor highlighted maverick as a key term in the discussion."
+  },
+  {
+    "id": 431,
+    "word": "mercurial",
+    "meaning_tr": "ruh hâli değişken",
+    "synonym_en": "volatile",
+    "level": "İleri",
+    "example_en": "The researchers described the results as mercurial in their final report."
+  },
+  {
+    "id": 432,
+    "word": "misanthropic",
+    "meaning_tr": "insan sevmez",
+    "synonym_en": "antisocial",
+    "level": "İleri",
+    "example_en": "The historian used the term misanthropic to characterize the situation."
+  },
+  {
+    "id": 433,
+    "word": "morose",
+    "meaning_tr": "somurtkan",
+    "synonym_en": "gloomy",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is morose."
+  },
+  {
+    "id": 434,
+    "word": "nebulous",
+    "meaning_tr": "belirsiz",
+    "synonym_en": "vague",
+    "level": "İleri",
+    "example_en": "The author chose the word nebulous to emphasize an important distinction."
+  },
+  {
+    "id": 435,
+    "word": "nefarious",
+    "meaning_tr": "hain, kötü",
+    "synonym_en": "wicked",
+    "level": "İleri",
+    "example_en": "The editor highlighted nefarious as a key term in the discussion."
+  },
+  {
+    "id": 436,
+    "word": "nonchalant",
+    "meaning_tr": "aldırışsız",
+    "synonym_en": "unconcerned",
+    "level": "İleri",
+    "example_en": "The researchers described the results as nonchalant in their final report."
+  },
+  {
+    "id": 437,
+    "word": "novel",
+    "meaning_tr": "yeni, özgün",
+    "synonym_en": "original",
+    "level": "İleri",
+    "example_en": "The historian used the term novel to characterize the situation."
+  },
+  {
+    "id": 438,
+    "word": "obdurate",
+    "meaning_tr": "inatçı",
+    "synonym_en": "stubborn",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is obdurate."
+  },
+  {
+    "id": 439,
+    "word": "obfuscate",
+    "meaning_tr": "anlaşılmaz hâle getirmek",
+    "synonym_en": "confuse",
+    "level": "İleri",
+    "example_en": "The author chose the word obfuscate to emphasize an important distinction."
+  },
+  {
+    "id": 440,
+    "word": "obsequious",
+    "meaning_tr": "yağcı, dalkavuk",
+    "synonym_en": "servile",
+    "level": "İleri",
+    "example_en": "The editor highlighted obsequious as a key term in the discussion."
+  },
+  {
+    "id": 441,
+    "word": "ostentatious",
+    "meaning_tr": "gösterişli",
+    "synonym_en": "showy",
+    "level": "İleri",
+    "example_en": "The researchers described the results as ostentatious in their final report."
+  },
+  {
+    "id": 442,
+    "word": "parochial",
+    "meaning_tr": "dar görüşlü",
+    "synonym_en": "narrow-minded",
+    "level": "İleri",
+    "example_en": "The historian used the term parochial to characterize the situation."
+  },
+  {
+    "id": 443,
+    "word": "parsimonious",
+    "meaning_tr": "cimri",
+    "synonym_en": "stingy",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is parsimonious."
+  },
+  {
+    "id": 444,
+    "word": "pedantic",
+    "meaning_tr": "ayrıntılara aşırı takılan",
+    "synonym_en": "fussy",
+    "level": "İleri",
+    "example_en": "The author chose the word pedantic to emphasize an important distinction."
+  },
+  {
+    "id": 445,
+    "word": "perfunctory",
+    "meaning_tr": "özensiz, baştan savma",
+    "synonym_en": "cursory",
+    "level": "İleri",
+    "example_en": "The editor highlighted perfunctory as a key term in the discussion."
+  },
+  {
+    "id": 446,
+    "word": "pernicious",
+    "meaning_tr": "çok zararlı",
+    "synonym_en": "destructive",
+    "level": "İleri",
+    "example_en": "The researchers described the results as pernicious in their final report."
+  },
+  {
+    "id": 447,
+    "word": "pervasive",
+    "meaning_tr": "her yere yayılmış",
+    "synonym_en": "widespread",
+    "level": "İleri",
+    "example_en": "The historian used the term pervasive to characterize the situation."
+  },
+  {
+    "id": 448,
+    "word": "petulant",
+    "meaning_tr": "huysuz",
+    "synonym_en": "irritable",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is petulant."
+  },
+  {
+    "id": 449,
+    "word": "phlegmatic",
+    "meaning_tr": "soğukkanlı",
+    "synonym_en": "calm",
+    "level": "İleri",
+    "example_en": "The author chose the word phlegmatic to emphasize an important distinction."
+  },
+  {
+    "id": 450,
+    "word": "placate",
+    "meaning_tr": "yatıştırmak",
+    "synonym_en": "appease",
+    "level": "İleri",
+    "example_en": "The editor highlighted placate as a key term in the discussion."
+  },
+  {
+    "id": 451,
+    "word": "polemic",
+    "meaning_tr": "sert tartışma",
+    "synonym_en": "controversy",
+    "level": "İleri",
+    "example_en": "The researchers described the results as polemic in their final report."
+  },
+  {
+    "id": 452,
+    "word": "pragmatism",
+    "meaning_tr": "pratik yaklaşım",
+    "synonym_en": "realism",
+    "level": "İleri",
+    "example_en": "The historian used the term pragmatism to characterize the situation."
+  },
+  {
+    "id": 453,
+    "word": "precarious",
+    "meaning_tr": "güvencesiz, tehlikeli",
+    "synonym_en": "unstable",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is precarious."
+  },
+  {
+    "id": 454,
+    "word": "prescient",
+    "meaning_tr": "öngörülü",
+    "synonym_en": "foresighted",
+    "level": "İleri",
+    "example_en": "The author chose the word prescient to emphasize an important distinction."
+  },
+  {
+    "id": 455,
+    "word": "pretentious",
+    "meaning_tr": "gösterişçi",
+    "synonym_en": "affected",
+    "level": "İleri",
+    "example_en": "The editor highlighted pretentious as a key term in the discussion."
+  },
+  {
+    "id": 456,
+    "word": "prodigious",
+    "meaning_tr": "muazzam",
+    "synonym_en": "enormous",
+    "level": "İleri",
+    "example_en": "The researchers described the results as prodigious in their final report."
+  },
+  {
+    "id": 457,
+    "word": "prolific",
+    "meaning_tr": "üretken",
+    "synonym_en": "productive",
+    "level": "İleri",
+    "example_en": "The historian used the term prolific to characterize the situation."
+  },
+  {
+    "id": 458,
+    "word": "propensity",
+    "meaning_tr": "eğilim",
+    "synonym_en": "inclination",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is propensity."
+  },
+  {
+    "id": 459,
+    "word": "prosaic",
+    "meaning_tr": "sıradan",
+    "synonym_en": "mundane",
+    "level": "İleri",
+    "example_en": "The author chose the word prosaic to emphasize an important distinction."
+  },
+  {
+    "id": 460,
+    "word": "quell",
+    "meaning_tr": "bastırmak",
+    "synonym_en": "suppress",
+    "level": "İleri",
+    "example_en": "The editor highlighted quell as a key term in the discussion."
+  },
+  {
+    "id": 461,
+    "word": "quixotic",
+    "meaning_tr": "gerçekçi olmayan idealist",
+    "synonym_en": "impractical",
+    "level": "İleri",
+    "example_en": "The researchers described the results as quixotic in their final report."
+  },
+  {
+    "id": 462,
+    "word": "rancor",
+    "meaning_tr": "kin",
+    "synonym_en": "resentment",
+    "level": "İleri",
+    "example_en": "The historian used the term rancor to characterize the situation."
+  },
+  {
+    "id": 463,
+    "word": "recalcitrant",
+    "meaning_tr": "dik başlı",
+    "synonym_en": "defiant",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is recalcitrant."
+  },
+  {
+    "id": 464,
+    "word": "reclusive",
+    "meaning_tr": "inzivaya çekilmiş",
+    "synonym_en": "withdrawn",
+    "level": "İleri",
+    "example_en": "The author chose the word reclusive to emphasize an important distinction."
+  },
+  {
+    "id": 465,
+    "word": "recondite",
+    "meaning_tr": "anlaşılması zor",
+    "synonym_en": "obscure",
+    "level": "İleri",
+    "example_en": "The editor highlighted recondite as a key term in the discussion."
+  },
+  {
+    "id": 466,
+    "word": "reiterate",
+    "meaning_tr": "tekrarlamak",
+    "synonym_en": "repeat",
+    "level": "İleri",
+    "example_en": "The researchers described the results as reiterate in their final report."
+  },
+  {
+    "id": 467,
+    "word": "relinquish",
+    "meaning_tr": "vazgeçmek",
+    "synonym_en": "surrender",
+    "level": "İleri",
+    "example_en": "The historian used the term relinquish to characterize the situation."
+  },
+  {
+    "id": 468,
+    "word": "reproach",
+    "meaning_tr": "azarlamak",
+    "synonym_en": "rebuke",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is reproach."
+  },
+  {
+    "id": 469,
+    "word": "rescind",
+    "meaning_tr": "iptal etmek",
+    "synonym_en": "revoke",
+    "level": "İleri",
+    "example_en": "The author chose the word rescind to emphasize an important distinction."
+  },
+  {
+    "id": 470,
+    "word": "reticent",
+    "meaning_tr": "ketum",
+    "synonym_en": "reserved",
+    "level": "İleri",
+    "example_en": "The editor highlighted reticent as a key term in the discussion."
+  },
+  {
+    "id": 471,
+    "word": "revere",
+    "meaning_tr": "saygı duymak",
+    "synonym_en": "venerate",
+    "level": "İleri",
+    "example_en": "The researchers described the results as revere in their final report."
+  },
+  {
+    "id": 472,
+    "word": "sagacious",
+    "meaning_tr": "bilge",
+    "synonym_en": "wise",
+    "level": "İleri",
+    "example_en": "The historian used the term sagacious to characterize the situation."
+  },
+  {
+    "id": 473,
+    "word": "salient",
+    "meaning_tr": "öne çıkan",
+    "synonym_en": "prominent",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is salient."
+  },
+  {
+    "id": 474,
+    "word": "sanguine",
+    "meaning_tr": "iyimser",
+    "synonym_en": "optimistic",
+    "level": "İleri",
+    "example_en": "The author chose the word sanguine to emphasize an important distinction."
+  },
+  {
+    "id": 475,
+    "word": "sardonic",
+    "meaning_tr": "alaycı",
+    "synonym_en": "mocking",
+    "level": "İleri",
+    "example_en": "The editor highlighted sardonic as a key term in the discussion."
+  },
+  {
+    "id": 476,
+    "word": "sedentary",
+    "meaning_tr": "hareketsiz",
+    "synonym_en": "inactive",
+    "level": "İleri",
+    "example_en": "The researchers described the results as sedentary in their final report."
+  },
+  {
+    "id": 477,
+    "word": "serendipity",
+    "meaning_tr": "şanslı rastlantı",
+    "synonym_en": "fortunate discovery",
+    "level": "İleri",
+    "example_en": "The historian used the term serendipity to characterize the situation."
+  },
+  {
+    "id": 478,
+    "word": "solicitous",
+    "meaning_tr": "ilgili, özenli",
+    "synonym_en": "attentive",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is solicitous."
+  },
+  {
+    "id": 479,
+    "word": "spurious",
+    "meaning_tr": "sahte, asılsız",
+    "synonym_en": "false",
+    "level": "İleri",
+    "example_en": "The author chose the word spurious to emphasize an important distinction."
+  },
+  {
+    "id": 480,
+    "word": "staunch",
+    "meaning_tr": "sadık, kararlı",
+    "synonym_en": "steadfast",
+    "level": "İleri",
+    "example_en": "The editor highlighted staunch as a key term in the discussion."
+  },
+  {
+    "id": 481,
+    "word": "stoic",
+    "meaning_tr": "duygularını belli etmeyen",
+    "synonym_en": "uncomplaining",
+    "level": "İleri",
+    "example_en": "The researchers described the results as stoic in their final report."
+  },
+  {
+    "id": 482,
+    "word": "strident",
+    "meaning_tr": "sert, tiz",
+    "synonym_en": "harsh",
+    "level": "İleri",
+    "example_en": "The historian used the term strident to characterize the situation."
+  },
+  {
+    "id": 483,
+    "word": "surreptitious",
+    "meaning_tr": "gizlice yapılan",
+    "synonym_en": "secret",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is surreptitious."
+  },
+  {
+    "id": 484,
+    "word": "taciturn",
+    "meaning_tr": "az konuşan",
+    "synonym_en": "reserved",
+    "level": "İleri",
+    "example_en": "The author chose the word taciturn to emphasize an important distinction."
+  },
+  {
+    "id": 485,
+    "word": "tenuous",
+    "meaning_tr": "zayıf, dayanıksız",
+    "synonym_en": "weak",
+    "level": "İleri",
+    "example_en": "The editor highlighted tenuous as a key term in the discussion."
+  },
+  {
+    "id": 486,
+    "word": "tirade",
+    "meaning_tr": "uzun öfkeli konuşma",
+    "synonym_en": "rant",
+    "level": "İleri",
+    "example_en": "The researchers described the results as tirade in their final report."
+  },
+  {
+    "id": 487,
+    "word": "torpid",
+    "meaning_tr": "uyuşuk",
+    "synonym_en": "sluggish",
+    "level": "İleri",
+    "example_en": "The historian used the term torpid to characterize the situation."
+  },
+  {
+    "id": 488,
+    "word": "trenchant",
+    "meaning_tr": "keskin, etkili",
+    "synonym_en": "incisive",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is trenchant."
+  },
+  {
+    "id": 489,
+    "word": "truculent",
+    "meaning_tr": "saldırgan",
+    "synonym_en": "aggressive",
+    "level": "İleri",
+    "example_en": "The author chose the word truculent to emphasize an important distinction."
+  },
+  {
+    "id": 490,
+    "word": "unassailable",
+    "meaning_tr": "çürütülemez",
+    "synonym_en": "indisputable",
+    "level": "İleri",
+    "example_en": "The editor highlighted unassailable as a key term in the discussion."
+  },
+  {
+    "id": 491,
+    "word": "unwieldy",
+    "meaning_tr": "hantal",
+    "synonym_en": "cumbersome",
+    "level": "İleri",
+    "example_en": "The researchers described the results as unwieldy in their final report."
+  },
+  {
+    "id": 492,
+    "word": "vacillate",
+    "meaning_tr": "kararsız kalmak",
+    "synonym_en": "waver",
+    "level": "İleri",
+    "example_en": "The historian used the term vacillate to characterize the situation."
+  },
+  {
+    "id": 493,
+    "word": "venerate",
+    "meaning_tr": "derin saygı göstermek",
+    "synonym_en": "revere",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is venerate."
+  },
+  {
+    "id": 494,
+    "word": "verbose",
+    "meaning_tr": "gereğinden uzun sözlü",
+    "synonym_en": "wordy",
+    "level": "İleri",
+    "example_en": "The author chose the word verbose to emphasize an important distinction."
+  },
+  {
+    "id": 495,
+    "word": "vex",
+    "meaning_tr": "canını sıkmak",
+    "synonym_en": "annoy",
+    "level": "İleri",
+    "example_en": "The editor highlighted vex as a key term in the discussion."
+  },
+  {
+    "id": 496,
+    "word": "vindicate",
+    "meaning_tr": "haklı çıkarmak",
+    "synonym_en": "exonerate",
+    "level": "İleri",
+    "example_en": "The researchers described the results as vindicate in their final report."
+  },
+  {
+    "id": 497,
+    "word": "virulent",
+    "meaning_tr": "şiddetli, zehirli",
+    "synonym_en": "toxic",
+    "level": "İleri",
+    "example_en": "The historian used the term virulent to characterize the situation."
+  },
+  {
+    "id": 498,
+    "word": "volatile",
+    "meaning_tr": "değişken",
+    "synonym_en": "unstable",
+    "level": "İleri",
+    "example_en": "The passage asks readers to consider whether the claim is volatile."
+  },
+  {
+    "id": 499,
+    "word": "wary",
+    "meaning_tr": "tetikte, temkinli",
+    "synonym_en": "cautious",
+    "level": "İleri",
+    "example_en": "The author chose the word wary to emphasize an important distinction."
+  },
+  {
+    "id": 500,
+    "word": "whimsical",
+    "meaning_tr": "tuhaf, değişken",
+    "synonym_en": "fanciful",
+    "level": "İleri",
+    "example_en": "The editor highlighted whimsical as a key term in the discussion."
+  }
+]
