@@ -1,11 +1,3 @@
 # SAT Vocabulary Trainer
 
-500 kelimelik İngilizce–Türkçe kelime kartı ve çoktan seçmeli çalışma uygulaması.
-
-## GitHub Pages kurulumu
-1. Bu klasördeki `index.html` ve `sat_500_kelimeler.json` dosyalarını GitHub repository ana dizinine yükleyin.
-2. Repository → Settings → Pages → Build and deployment → Deploy from a branch.
-3. Branch: `main`, Folder: `/(root)` → Save.
-4. Birkaç dakika sonra `https://KULLANICI_ADI.github.io/sat-vocabulary-trainer/` adresinden açın.
-
-İlerleme tarayıcı localStorage'ında tutulur.
+GitHub Pages için `index.html` ve `sat_500_kelimeler.json` dosyalarını repository ana dizinine yükleyin. Testte cevap verildikten sonra İngilizce örnek ve Türkçe açıklama görünür. 33 kelime için özgün bağlam cümlesi bulunur; diğer kelimeler için geçici anlam bağlamı gösterilir.
